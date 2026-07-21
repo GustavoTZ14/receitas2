@@ -1,0 +1,25 @@
+---
+import ImageLogo from './ImageLogo.astro';
+import { Search } from 'lucide-react';
+---
+<header class="p-5 bg-[#fffaf9]">
+  <div class="flex justify-between items-center">
+    <div class="w-40">
+      <ImageLogo/>
+    </div>
+    <nav class="flex items-center gap-10">
+      <div>
+        <ul class="flex gap-4">
+          <li>Inicio</li>
+          <li>Receitas</li>
+          <li>Categorias</li>
+        </ul>
+      </div>
+      <div>
+        <form class="flex gap-2 p-2 outline-1 items-center outline-gray-300 rounded-xl w-100">
+          <input type="search" id="inSearch" placeholder="Pesquise por receitas ..." class="outline-hidden text-base w-full h-full"><Search/>
+        </form>
+      </div>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,1498 @@
+[
+  {
+    "slug": "frango-recheado-com-agriao",
+    "titulo": "Frango recheado com agrião",
+    "descricao": "Frango recheado com agrião é uma receita sofisticada e ao mesmo tempo reconfortante, perfeita para ocasiões especiais ou um almoço de domingo. O frango fica suculento e macio, enquanto o agrião traz um toque fresco e levemente picante que equilibra muito bem o sabor da carne. O recheio, bem temperado, realça os aromas naturais do prato e cria uma combinação elegante e surpreendente. Assado até dourar, esse prato conquista tanto pelo sabor quanto pela apresentação, sendo uma ótima opção para quem quer variar o cardápio sem complicações.",
+    "imagem": "/src/assets/receitas/frango_recheado_com_agrião.jpg",
+    "categoria": "Carnes",
+    "tempoPreparo": "2h",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "maisbuscadas": true,
+    "ingredientes": [
+      "1 frango de 1 ½ kg, já limpo",
+      "1 xícara de caldo de galinha",
+      "1 cebola pequena, cortada em rodelas finas",
+      "1 maço de agrião",
+      "3 colheres (sopa) de salsinha picada",
+      "½ xícara de migalhas de pão fresco",
+      "suco e raspas da casca de ½ laranja média",
+      "uma pitada de noz-moscada",
+      "¼ xícara de passa sem semente",
+      "sal e pimenta-do-reino moída na hora"
+    ],
+    "molho": [
+      "2 xícaras de caldo de galinha",
+      "suco e raspas de casca de ½ laranja média"
+    ],
+    "preparo": [
+      "Esquente o forno a 200ºC.",
+      "Ponha o caldo numa panela e deixe ferver. Junte a cebola, tampe e cozinhe em fogo baixo durante 10 minutos até ficar macia. Tire a tampa e cozinhe em fogo forte até que o líquido fique reduzido a ⅓. Retire do fogo.",
+      "Pique bem o agrião e misture com a cebola e o caldo. Junte a salsinha, as migalhas, as raspas e o suco de laranja, a noz-moscada e a passa. Tempere com o sal e a pimenta.",
+      "Recheie o frango com essa mistura, amarre as coxas e coloque-o sobre uma grade dentro de uma assadeira.",
+      "Cubra com papel de alumínio, prendendo as bordas do papel por baixo da grade. Asse por 1 hora. Retire o papel de alumínio e asse por mais 20 minutos até dourar. Tire o frango do forno e mantenha quente.",
+      "Prepare o molho: escorra a gordura da assadeira e coloque-a sobre o fogo médio. Junte o caldo e deixe ferver, raspando o fundo da assadeira.",
+      "Junte as raspas e o suco de laranja e deixe em fogo baixo. Enquanto isso, vá trinchando o frango.",
+      "Arrume as fatias de frango e o recheio numa travessa quente e sirva o molho separados."
+    ]
+  },
+  {
+    "slug": "porco-com-macas",
+    "titulo": "Porco com maçãs",
+    "descricao": "Porco com maçãs é um prato clássico que combina o sabor marcante e suculento da carne suína com a doçura suave e levemente ácida das maçãs. A carne fica macia e bem temperada, enquanto as maçãs caramelizam durante o preparo, formando um molho aromático e equilibrado. Essa receita traz um contraste perfeito entre o salgado e o doce, resultando em um prato reconfortante, elegante e ideal tanto para um almoço especial quanto para um jantar caprichado.",
+    "imagem": "/src/assets/receitas/porco_com_maçãs.jpg",
+    "categoria": "Carnes",
+    "tempoPreparo": "2h",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "maisbuscadas": true,
+    "ingredientes": [
+      "1 kg a 1 ½ kg de lombo de porco.",
+      "4 colheres (sopa) de vinho branco seco.",
+      "2 xícaras de geléia de amora",
+      "½ kg de maçã, descascada e cortada em rodelas finas",
+      "2 colheres (chá) de sálvia seca sal e pimenta-do-reino óleo para fritar o torresmo"
+    ],
+    "preparo": [
+      "Coloque o vinho e a geléia numa panela e esquente devagar até que a geléia comece a derreter. Adicione as maçãs em rodelas finas e cozinhe por 10 a 15 minutos até ficarem macias. Bata no liquidificador até formar um purê. Deixe esfriar.",
+      "Enquanto isso, tire a pele do lombo de porco e reserve. Calcule 30 minutos de cozimento para cada 1/2 kg, e mais 30 minutos no total.",
+      "Espalhe a sálvia sobre a carne e tempere com sal e pimenta. Coloque a carne num prato fundo e despeje o purê de maçã por cima. Cubra com papel de alumínio e deixe no refrigerador por 3 a 4 horas.",
+      "Esquente o forno a 200ºC.",
+      "Retire a carne do prato (sem tirar o purê que fica grudado na gordura) e peneire o purê. Coloque a carne numa assadeira e asse pelo tempo calculado. Cubra com papel de alumínio depois de 30 a 45 minutos. Coloque a pele numa assadeira. Polvilhe com sal e besunte com óleo para fazer o torresmo. Cerca de 30 minutos antes do lombo ficar pronto, coloque a assadeira com a pele na parte mais alta do forno. Escorra o excesso de gordura, à medida que for assando, para que fique bem crocante.",
+      "Quando o lombo estiver pronto (o suco deve sair transparente quando a carne for espetada com um garfo), coloque-o numa travessa aquecida com o torresmo e mantenha aquecido no forno em fogo baixo.",
+      "Escorra a gordura da assadeira e coloque-a sobre o fogo. Adicione o purê reservado e esquente bem, mexendo sem parar. Coloque numa molheira e sirva acompanhando o lombo e o torresmo."
+    ]
+  },
+  {
+    "slug": "espetinhos-com-damasco",
+    "titulo": "Espetinhos com damasco",
+    "descricao": "Espetinhos com damasco são uma opção sofisticada e cheia de sabor, que combina o salgado da carne com o doce delicado do damasco. Durante o preparo, os espetinhos ficam dourados por fora e suculentos por dentro, enquanto o damasco amolece levemente, liberando um sabor adocicado que equilibra perfeitamente o prato. É uma receita versátil, ideal para churrascos, entradas ou refeições leves, que impressiona tanto pelo visual quanto pela harmonia de sabores.",
+    "imagem": "/src/assets/receitas/espetinhos_com_damasco.jpg",
+    "categoria": "Carnes",
+    "tempoPreparo": "35min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "maisbuscadas": true,
+    "ingredientes": [
+      "½ kg de carne magra (filé mignon, contrafilé)",
+      "2 xícaras de iogurte natural",
+      "1 colher (chá) de hortelã seca ou 1 colher (sopa) de hortelã fresca picada",
+      "2 colheres (chá) de suco de limão",
+      "sal e pimenta-do-reino",
+      "16 damascos secos, deixados de molho na véspera e escorridos",
+      "3 cebolas pequenas, cortadas em quatro",
+      "400 g de abobrinha pequena",
+      "óleo para pincelar a abobrinha"
+    ],
+    "preparo": [
+      "Corte a carne em cubos pequenos. Misture o iogurte, a hortelã e o suco de limão. Tempere com sal e pimenta a gosto. Coloque a carne numa vasilha e despeje o tempero de iogurte, misturando bem para cobrir todos os cubos. Cubra com papel de alumínio e deixe na geladeira por, no mínimo, 6 horas (se preferir, pode deixar até 2 dias).",
+      "Escorra o excesso de iogurte. Corte os damascos ao meio. Separe as cebolas em camadas.",
+      "Monte os espetinhos (1 ou 2 por pessoa) alternando a carne, o damasco e a cebola. Coloque os espetinhos na parte mais alta do forno, sobre uma grade, tendo o cuidado de pôr uma assadeira embaixo para aparar o líquido. Asse em temperatura média por aproximadamente 30 minutos, virando para assar por igual.",
+      "Enquanto isso, corte as abobrinhas em rodelas de cerca de 2 cm e escalde em água fervente com sal por 1 minuto. Escorra e coloque as rodelas em espetinhos. Pincele com óleo e asse em fogo forte durante 5 minutos até dourar por igual. Sirva com os espetinhos."
+    ]
+  },
+  {
+    "slug": "robalo-com-tomate-ao-vinho-branco",
+    "titulo": "Robalo com tomate ao vinho branco",
+    "descricao": "Robalo com tomate ao vinho branco é um prato leve, elegante e muito aromático. O peixe, de carne branca e delicada, fica macio e suculento, absorvendo os sabores do molho feito com tomates frescos e vinho branco. A acidez suave do tomate e o aroma do vinho realçam o sabor natural do robalo, criando uma combinação equilibrada e refinada. É uma receita perfeita para um almoço especial ou jantar sofisticado, trazendo frescor e leveza ao prato.",
+    "imagem": "/src/assets/receitas/robalo_com_tomate_ao_vinho_branco.jpg",
+    "categoria": "Peixes",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "maisbuscadas": true,
+    "ingredientes": [
+      "800 g de filé de robalo, cortado em 4 porções iguais",
+      "400 g de tomate",
+      "1 ½ colher (sopa) de manteiga",
+      "1 xícara de vinho branco",
+      "sal e pimenta-do-reino",
+      "2 colheres (sopa) de salsinha picada",
+      "1 colher (sopa) de coentro fresco picado ou 2 colheres (chá) de tomilho seco"
+    ],
+    "preparo": [
+      "Esquente o forno a 200ºC.",
+      "Corte um dos tomates em 4 rodelas. Escalde, tire a pele e pique os outros tomates.",
+      "Unte ligeiramente uma fôrma refratária com um pouco de manteiga. Coloque os tomates picados no fundo e arrume os filés por cima.",
+      "Coloque o vinho e o resto da manteiga numa panela pequena e leve ao fogo baixo até derreter a manteiga. Derrame sobre o peixe.",
+      "Polvilhe com sal, a pimenta, o coentro e a salsinha. Coloque uma rodela de tomate sobre cada porção de robalo.",
+      "Asse no forno durante 20 minutos ou até estar pronto. Sirva quente."
+    ]
+  },
+  {
+    "slug": "macarrao-a-napolitana",
+    "titulo": "Macarrão à napolitana",
+    "descricao": "Macarrão à napolitana é uma receita clássica, simples e cheia de sabor. Preparado com molho de tomate bem temperado, ele destaca a acidez equilibrada e o aroma dos ingredientes frescos. O macarrão fica envolvido por um molho encorpado e saboroso, resultando em um prato reconfortante e muito versátil. Ideal para o dia a dia ou para um almoço em família, é uma opção prática que agrada a todos e nunca sai de moda.",
+    "imagem": "/src/assets/receitas/macarrão_a_napolitana.jpg",
+    "categoria": "Massas",
+    "tempoPreparo": "25min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "maisbuscadas": true,
+    "ingredientes": [
+      "250 g (½ pacote) de macarrão ninho largo",
+      "1 colher (sopa) de óleo",
+      "1 cebola grande bem picada",
+      "200 g de cogumelo",
+      "200 g de bacon picado",
+      "3 talos de aipo (salsão) picados",
+      "1 dente de alho grande amassado (opcional)",
+      "2 colheres (sopa) de purê de tomate",
+      "¾ xícara de caldo de galinha",
+      "1 colher (chá) de orégano",
+      "sal e pimenta-do-reino",
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de queijo parmesão ralado"
+    ],
+    "preparo": [
+      "Esquente o óleo numa frigideira em fogo médio. Adicione a cebola, os cogumelos, o bacon e o aipo e frite por 3 minutos, mexendo de vez em quando",
+      "Adicione o alho, o purê de tomate, o caldo e o orégano. Tempere com sal e pimenta a gosto, diminua o fogo e cozinhe por mais 5 minutos até engrossar.",
+      "Cozinhe o macarrão em bastante água fervente com sal durante 5 minutos, ou até ficar cozido. Escorra o macarrão e coloque novamente na panela enxaguada. Junte a manteiga e misture.",
+      "Coloque o macarrão numa travessa aquecida e despeje o molho por cima. Polvilhe com o queijo ralado e sirva imediatamente."
+    ]
+  },
+  {
+    "slug": "frango-frito-no-forno",
+    "titulo": "Frango frito no forno",
+    "descricao": "Frango frito no forno é uma opção prática e deliciosa para quem quer o sabor do frango crocante sem precisar fritar em óleo. Assado até dourar, ele fica com a casquinha crocante por fora e a carne macia e suculenta por dentro. Os temperos penetram bem na carne durante o preparo, garantindo um sabor marcante e equilibrado. É uma receita simples, perfeita para o dia a dia, que combina com diversos acompanhamentos e agrada toda a família.",
+    "imagem": "/src/assets/receitas/frango_frito_no_forno.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "65min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 frango cortado em 4 partes",
+      "4 dentes de alho",
+      "3 colheres (sopa) de suco de limão",
+      "2 colheres (chá) de sal",
+      "2 colheres (sopa) de farinha de trigo",
+      "pimenta-do-reino a gosto",
+      "1 colher (chá) de gengibre ralado",
+      "raspas da casca de 1 limão",
+      "3 colheres (chá) de páprica doce",
+      "1 colher (chá) de molho de pimenta vermelha",
+      "1 colher (sopa) de óleo",
+      "1 colher (sopa) de manteiga",
+      "mais 1 colher (chá) de sal"
+    ],
+    "preparo": [
+      "Amasse o alho, o suco de limão e o sal para formar uma pasta",
+      "Faça cortes não muito profundos nos pedaços de frango usando uma faca bem afiada. Esfregue a pasta no frango. Deixe descansar, numa vasilha tampada, em lugar fresco, por pelo menos 1 hora.",
+      "Preaqueça o forno a 200ºC.",
+      "Misture a farinha, a pimenta-do-reino, o gengibre e as raspas.",
+      "À parte, misture a páprica, o molho de pimenta e o sal e esfregue bem o frango com esta mistura. Passe cada pedaço na mistura de farinha, de modo que fiquem bem cobertos.",
+      "Esquente o óleo e a manteiga numa frigideira em fogo médio. Adicione o frango e doure bem de todos os lados, tomando cuidado para não retirar a cobertura.",
+      "Coloque numa fôrma refratária e leve ao forno, sem tampar, por aproximadamente 40 minutos, até o frango ficar macio. Sirva quente."
+    ]
+  },
+  {
+    "slug": "salada-de-frango-crocante",
+    "titulo": "Salada de frango crocante",
+    "descricao": "Salada de frango crocante é uma opção leve, saborosa e cheia de textura. O frango dourado e crocante contrasta perfeitamente com a frescura das folhas e dos legumes, criando um prato equilibrado e muito apetitoso. Os temperos e o molho envolvem os ingredientes, trazendo ainda mais sabor e aroma à salada. Ideal para uma refeição leve ou entrada especial, é uma receita prática que combina frescor, crocância e suculência em cada garfada.",
+    "imagem": "/src/assets/receitas/salada_de_frango_crocante.png",
+    "categoria": "Saladas",
+    "tempoPreparo": "105min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "2 peitos de frango cozidos e desossados",
+      "1 ½ xícara de arroz integral",
+      "3 xícaras de caldo de galinha",
+      "1 pimentão vermelho grande, cortado em pedaços pequenos",
+      "1 maço de cebolinha verde picada",
+      "200 g (1 lata) de ervilha",
+      "½ xícara de cenoura ralada",
+      "½ xícara de noz picada",
+      "1 xícara de maionese",
+      "1 colher (sopa) de purê de tomate",
+      "¼ colher (chá) de açúcar",
+      "1 colher (sopa) de salsinha picada (opcional)"
+    ],
+    "molho": [
+      "2 colheres (sopa) de azeite de oliva",
+      "1 colher (sopa) de suco de limão",
+      "2 colheres (sopa) de vinagre de vinho ou vinho branco seco",
+      "uma pitada de mostarda em pó",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Cozinhe o arroz integral no caldo de galinha durante 45 minutos, ou até ficar macio. Se necessário, junte água fervente no final do cozimento.",
+      "Enquanto isso, prepare o molho: coloque todos os ingredientes num vidro com tampa e agite bem.",
+      "Escorra o arroz e misture com o pimentão vermelho, a cebolinha, a ervilha e a cenoura.",
+      "Enquanto o arroz ainda estiver morno, misture com o molho. Cubra a vasilha com papel alumínio e deixe na geladeira durante 1 hora.",
+      "Antes de servir, junte a noz e misture bem. Coloque numa travessa e arrume o frango por cima.",
+      "Misture a maionese com o purê de tomate e o açúcar. Deverá ficar com a consistência de um molho. Se ficar muito duro, junte um pouquinho de água quente.",
+      "Com uma colher, coloque a maionese por cima do frango. Se quiser polvilhe com salsinha picada."
+    ]
+  },
+  {
+    "slug": "ensopado-de-carne-a-flamenga",
+    "titulo": "Ensopado de carne à flamenga",
+    "descricao": "Ensopado de carne à flamenga é um prato tradicional e reconfortante, conhecido pelo seu sabor profundo e aromático. A carne é cozida lentamente até ficar macia e suculenta, absorvendo os temperos e formando um molho encorpado e saboroso. O preparo cuidadoso realça os aromas e cria uma combinação rica e equilibrada, perfeita para dias mais frios ou para um almoço especial em família. É uma receita clássica, cheia de tradição e muito apreciada por quem gosta de pratos robustos e bem temperados.",
+    "imagem": "/src/assets/receitas/ensopado_de_carne_a_flamenga.png",
+    "categoria": "Ensopados",
+    "tempoPreparo": "145min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "800 g de coxão duro, cortado em cubos de 2 cm",
+      "3 colheres (sopa) de óleo",
+      "100 g de bacon picado",
+      "3 cebolas médias, cortadas em rodelas",
+      "1 dente de alho amassado (opcional)",
+      "3 colheres (sopa) de farinha de trigo",
+      "2 xícaras de cerveja preta",
+      "4 xícaras de caldo de carne",
+      "1 colher (sopa) de vinagre de vinho",
+      "1 colher (sopa) de açúcar mascavo",
+      "1 amarrado de salsinha, tomilho e louro",
+      "sal e pimenta-do-reino",
+      "1 colher (sopa) de salsinha picada, para decorar",
+      "TORRADA DE MOSTARDA: 2 fatias de pão de fôrma, sem as cascas, cortadas em 4 triângulos ou quadrados",
+      "2 colheres (chá) de mostarda",
+      "óleo para fritar"
+    ],
+    "preparo": [
+      "Esquente o óleo numa panela grande em fogo forte e frite a carne, aos poucos, até dourar bem. Retire e mantenha a carne quente.",
+      "Diminua o fogo e frite o bacon e as cebolas durante 5 a 7 minutos, mexendo de vez em quando, até que as cebolas estejam macias e começando a corar. Adicione o alho e frite por mais 1 minuto.",
+      "Adicione a farinha e mexa, raspando bem o fundo da panela. Cozinhe até começar a corar e adicione a cerveja e 2 xícaras do caldo. Deixe ferver, mexendo sem parar. Recoloque a carne na panela e junte os demais ingredientes, exceto a salsinha. Mexa bem, diminua o fogo, tampe a panela e cozinhe lentamente, juntando o restante do caldo à medida que for secando.",
+      "Enquanto isso, passe a mostarda no dois lados dos pedaços de pão.",
+      "Esquente o óleo numa frigideira e frite os pedaços de pão por alguns segundos até dourarem.",
+      "Coloque sobre papel absorvente.",
+      "Quando a carne estiver macia, experimente e corrija o tempero. Sirva quente, decorada com a salsinhae as torradas."
+    ]
+  },
+  {
+    "slug": "folhados-de-peru",
+    "titulo": "Folhados de peru",
+    "descricao": "Folhados de peru são uma opção prática e saborosa, ideais para servir como lanche, entrada ou acompanhamento. Preparados com massa folhada dourada e crocante, eles envolvem um recheio suculento de peru bem temperado, criando uma combinação leve e muito agradável ao paladar. O contraste entre a textura delicada da massa e o recheio macio torna o prato ainda mais apetitoso. Versáteis e fáceis de servir, os folhados de peru são perfeitos para reuniões, festas ou um lanche especial.",
+    "imagem": "/src/assets/receitas/folhados_de_peru.png",
+    "categoria": "Massas",
+    "tempoPreparo": "215min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "300 g de peito de peru",
+      "2 cebolas",
+      "1 cenoura média, cortada em quatro",
+      "2 folhas de louro",
+      "1 buquê garni",
+      "6 grãos de pimenta-do-reino preta",
+      "1 colher (sopa) de manteiga ou margarina",
+      "10 cogumelos fatiados",
+      "1 batata média, cozida em água com sal e cortada em cubinhos",
+      "200 g (1 lata) de milho verde escorrido",
+      "sal e pimenta-do-reino",
+      "400 g de massa folhada pronta descogelada",
+      "8 colheres (chá) de shoyu (molho de soja)",
+      "1 ovo batido para pincelar",
+      "chutney de manga para acompanhar (opcional)"
+    ],
+    "preparo": [
+      "Coloque o peru numa panela. Adicione 1 cebola, a cenoura, as folhas de louro, o buquê garni e o grãos de pimenta. Cubra com água fria, deixe ferver e abaixe o fogo, cozinhando com a panela tampada, até o peru ficar macio (de 30 a 45 minutos).",
+      "Pique a outra cebola. Derreta a manteiga numa frigideira em fogo médio. Junte a cebola e o cogumelo e frite até a cebola ficar macia.",
+      "Retire o peru do caldo. Tire a pele e desfie a carne. Coe o caldo e deixe reservado.",
+      "Misture o peru, a batata, a cebola, o cogumelo e o milho verde. Tempere bem com sal e pimenta e umedeça a mistura com 2 a 3 colheres (sopa) do caldo reservado.",
+      "Preaqueça o forno a 200ºC. Molhe uma assadeira com água.",
+      "Corte a massa em 4 partes iguais. Abra cada pedaço, com o rolo, sobre o tabuleiro polvilhado com farinha de trigo, até formar um quadrado. Corte um círculo de 15 a 30 cm de diâmetro em cada quadrado. Coloque ¼ da mistura de peru no meio de cada círculo e 2 colhers (chá) de chuntney de manga por cima.",
+      "Pincele a borda de cada círculo com água fria e dobre a massa ao meio, juntando as bordas sobre o recheio. Pressione os lados, para fechar bem. Separe delicadamente as bordas da massa por cima do recheio.",
+      "Coloque os folhados na assadeira e pincele com o ovo. Deixe assar durante 20 minutos ou até que os folhados estejam dourados. Sirva quente ou frio, como preferir, acompanhados do chutney de manga."
+    ]
+  },
+  {
+    "slug": "frango-crocante",
+    "titulo": "Frango Crocante no Forno com Parmesão e Ervas",
+    "descricao": "O frango crocante no forno é uma receita clássica e fácil, perfeita para quem busca um prato saboroso e com textura irresistível. Preparado com pedaços de frango assados até ficarem dourados, o prato recebe uma cobertura especial de queijo parmesão ralado, temperos aromáticos e batatinhas trituradas, que garantem uma crocância única. A manteiga derretida intensifica o sabor e ajuda a formar uma casquinha dourada e suculenta, enquanto a salsinha e o estragão trazem frescor e equilíbrio ao prato. Ideal para almoço em família, refeições especiais ou cardápios do dia a dia, essa receita de frango crocante combina praticidade com um resultado delicioso e bem apresentado.",
+    "imagem": "/src/assets/receitas/frango_crocante.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "80min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 frango cortado em 4 partes, pesando 300 g cada uma, aproximadamente",
+      "3 colheres (sopa) de manteiga",
+      "2 xícaras de batatinhas fritas",
+      "1 xícara de queijo parmesão ralado",
+      "1 colher (sopa) de salsinha picada",
+      "½ colher (chá) de estragão seco",
+      "1 colher (chá) de sal de alho (tempero pronto)",
+      "pimenta-do-reino a gosto"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 200ºC.",
+      "Retire a pele das partes do frango.",
+      "Derreta a manteiga numa panela sobre fogo baixo. Pincele metade da manteiga derretida sobre o frango.",
+      "Amasse as batatinhas: coloque num saco plástico e passe o rolo de esticar massa por cima.",
+      "Misture a batata amassada com o queijo ralada, as ervas e o sal de alho e tempere a gosto com a pimenta.",
+      "Passe o frango nessa mistura, apertando bem. Coloque os pedaços de frango, lado a lado, numa fôrma refratária.",
+      "Respingue a manteiga restante por cima e asse no forno durante 45 a 60 minutos, até ficar bem cozido. Sirva quente."
+    ]
+  },
+  {
+    "slug": "pescadinhas-com-laranja",
+    "titulo": "Pescadinhas com Laranja Assadas",
+    "descricao": "As pescadinhas com laranja assadas são uma receita leve, saudável e cheia de sabor, ideal para quem busca um prato nutritivo e sofisticado. O peixe é temperado com sal e pimenta-do-reino e assado até ficar macio e suculento, recebendo um molho aromático feito com manteiga, cebola e mostarda. O grande destaque da receita é o suco natural de laranja, que traz frescor e um leve toque adocicado, equilibrando perfeitamente os sabores e criando um molho delicado e perfumado. Finalizada com salsinha picada, a preparação ganha cor e um aroma agradável, tornando-se uma excelente opção para almoços leves, refeições saudáveis ou cardápios especiais.",
+    "imagem": "/src/assets/receitas/pescadinhas_com_laranja.png",
+    "categoria": "Peixes",
+    "tempoPreparo": "35min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "4 pescadinhas limpas e sem espinhas",
+      "sal e pimenta-do-reino",
+      "1 ½ colher (sopa) de manteiga ou margarina",
+      "1 cebola pequena bem picada",
+      "2 colheres (chá) de mostarda",
+      "sudo de 2 laranjas pequenas",
+      "1 colher (sopa) de salsinha picada (opcional)"
+    ],
+    "preparo": [
+      "Prequeça o forno a 200ºC. Lave as pescadinhas e seque com papel absorvente. Polvilhe por dentro e por fora com sal e pimenta-do-reino",
+      "Use metade da manteiga para untar uma fôrma refratária suficientemente grande para acomodar as pescadinhas lado a lado. Coloque as pescadinhas na fôrma.",
+      "Derreta a manteiga restante numa panela pequena e frite lentamente a cebola até ficar transparente. Retire do fogo e adicione a mostarda, o suco de laranja e a salsinha e misture. Derrame esta mistura sobre o peixe.",
+      "Cubra a fôrma com tampa ou papel de alumínio e asse no forno por 15 minutos. Retire a tampa ou o papel e asse por mais 10 minutos ou até o peixe ficar pronto."
+    ]
+  },
+  {
+    "slug": "enrolado-de-carne",
+    "titulo": "Enrolado de Carne Assado com Legumes e Molho",
+    "descricao": "O enrolado de carne assado é uma receita clássica e reconfortante, ideal para quem busca um prato principal suculento e cheio de sabor. Preparado com capa de filé dourada e cozida lentamente, o prato ganha uma textura macia e um sabor intenso, realçado por ervas aromáticas e um molho rico feito com caldo de carne e shoyu. A combinação de legumes como cenoura, cebola e salsão traz equilíbrio e profundidade ao preparo, enquanto o tomilho e a manjerona adicionam um aroma delicado e sofisticado. Finalizado com um molho encorpado, o enrolado de carne é perfeito para almoços em família, ocasiões especiais ou refeições completas e nutritivas.",
+    "imagem": "/src/assets/receitas/enrolado_de_carne.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "3h",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "1 kg de capa de filé, enrolado e amarrado",
+      "1 ½ colher (sopa) de manteiga ou margarina",
+      "1 cebola cortada em quatro",
+      "2 cenouras grandes cortadas em rodelas",
+      "2 talos de salsão cortados em rodelas",
+      "2 xícaras de caldo de carne",
+      "½ colher (chá) de tomilho seco",
+      "½ colher (chá) de manjerona seca",
+      "1 colher (sopa) de shoyu (molho de soja)",
+      "pimenta-do-reino e sal",
+      "4 colheres (chá) de maisena"
+    ],
+    "preparo": [
+      "Derreta a margarina numa fôrma refratária e frite o enrolado sobre fogo forte até dourar de todos os lados. Coloque num prato.",
+      "Adicione a cebola, a cenoura e o salsão, diminua o fogo e frite lentamente durante 5 minutos, mexendo de vez em quando. Coloque o enrolado novamente na fôrma e junte o caldo, o tomilho, a manjerona, o shoyu e sal e pimenta a gosto.",
+      "Deixe ferver, diminua o fogo, tampe a fôrma e cozinhe lentamente durante 2 horas e 30 minutos, virando a carne a cada 30 minutos.",
+      "Quando ficar macia, retire a carne da fôrma e deixe aquecida.",
+      "Faça uma pasta com a maisena e um pouquinho de água, adicione à fôrma, sem parar de mexer, e deixe ferver. Cozinhe lentamente por 2 a 3 minutos, mexendo sem parar. Com uma amassador de batatas, amasse a cebola, a cenoura e o salsão dentro da fôrma. Verifique o tempero.",
+      "Coloque a fôrma numa travessa aquecida e, se quiser, corte algumas fatias bem finas de uma das pontas do enrolado. Derrame um pouco de molho por cima e sirva."
+    ]
+  },
+  {
+    "slug": "frango-ao-limao-no-forno",
+    "titulo": "Frango ao Limão no Forno com Legumes",
+    "descricao": "O frango ao limão no forno é uma receita clássica, aromática e cheia de frescor, ideal para quem busca um prato principal suculento e equilibrado. Preparado com pedaços de frango assados lentamente, o prato ganha sabor marcante com o suco e as raspas de limão, que trazem um toque cítrico delicado e refrescante. A combinação de ervas como tomilho e salsinha intensifica o aroma, enquanto legumes como cebola, cenoura e salsão garantem textura e profundidade ao preparo. O caldo de galinha e a manteiga ajudam a manter a carne macia e suculenta, formando um molho saboroso e levemente encorpado. Com uma crosta leve e dourada e um molho perfumado, o frango ao limão no forno é perfeito para almoços em família, refeições especiais ou cardápios equilibrados do dia a dia.",
+    "imagem": "/src/assets/receitas/frango_ao_limao_no_forno.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "2h",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "1 ½ kg de frango",
+      "¾ xícara de fatias de pão de fôrma sem casca em migalhas ou passadas pelo liquidificador",
+      "½ colher (chá) de raspas da casca de limão",
+      "sal e pimenta-do-reino a gosto",
+      "1 colher (sopa) de salsinha picada",
+      "½ colher (chá) de tomilho seco",
+      "4 colheres (sopa) de água",
+      "3 colheres (sopa) de manteiga",
+      "1 cebola grande cortada em rodelas",
+      "3 talos de salsão cortados em rodelas",
+      "3 cenouras médias cortadas em rodelas",
+      "suco e raspas da casca de 1 limão grande",
+      "1 ½ xícara de caldo de galinha",
+      "2 colheres (sopa) de salsinha picada",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 ½ colher (sopa) de manteiga ou margarina"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 200ºC.",
+      "Misture o pão com ½ colher (chá) de raspas de limão, o tomilho, sal e pimenta-do-reino a gosto e a água. Use para rechear o frango. Amarre as coxas com fio ou barbante fino.",
+      "Derreta 3 colheres (sopa) de manteiga ou margarina numa panela grande. Junte o frango e deixe dourar de todos os lados. Retire e reserve.",
+      "Na panela, coloque a cebola, o salsão e a cenoura e frite lentamente por uns 10 minutos até que estejam macios, mexendo de vez em quando.",
+      "Junte as raspas do limão grande, o sal e pimenta-do-reino a gosto. Coloque os legumes numa fôrma refratária. Coloque o frango por cima. Leve o caldo ao fogo e deixe levantar fervura. Despeje sobre o frango na fôrma.",
+      "Cubra o frango com papel de alumínio e leve ao forno por 1 hora ou até que o frango esteja macio.",
+      "Coloque o frango numa travessa aquecida. Coe o líquido da fôrma para uma panela e reserve. Acrescente a salsinha aos legumes e disponha em volta do frango. Cubra com papel de alumínio e mantenha quente.",
+      "Adicione o suco de limão grande ao líquido da panela e aqueça lentamente. Misture 1 ½ colher (sopa) de manteiga com a farinha até obter uma pasta. Acrescente ao líquido quente um pouco de cada vez, mexendo vigorosamente. Ferva por 1 a 2 minutos até que engrosse, mexendo sempre. Verifique o tempero.",
+      "Retire o papel de alumínio da travessa e despeje um pouco do molho de limão sobre o frango e sirva o molho restante numa molheira."
+    ]
+  },
+  {
+    "slug": "bifes-com-molho-de-pimenta-verde",
+    "titulo": "Bifes com Molho de Pimenta Verde Cremoso",
+    "descricao": "Os bifes com molho de pimenta verde são uma receita clássica e sofisticada, perfeita para quem busca um prato principal rápido e cheio de sabor. Os bifes são selados na frigideira até ficarem dourados e suculentos, enquanto o molho cremoso é preparado com manteiga, cebola e pimenta-do-reino verde, trazendo aroma marcante e levemente picante. O molho ganha profundidade com caldo de carne, purê de tomate e ketchup, resultando em uma textura encorpada e sabor equilibrado. O toque final de iogurte natural adiciona cremosidade e suavidade, criando um contraste perfeito com a intensidade da pimenta verde. Ideal para almoços especiais, jantares rápidos ou refeições do dia a dia, os bifes com molho de pimenta verde são uma excelente opção para quem procura uma receita de carne fácil, elegante e cheia de personalidade.",
+    "imagem": "/src/assets/receitas/bifes_com_molho_de_pimenta_verde.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "20min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "4 bifes finos",
+      "1 colher (sopa) de óleo",
+      "1 ½ colher (sopa) de manteiga",
+      "1 cebola grande cortada em rodelas",
+      "1 colher (sopa) de pimenta-do-reino verde amassada",
+      "2 colheres (sopa) de purê de tomate",
+      "2 colheres (sopa) de catchup",
+      "¾ xícara de caldo de carne",
+      "200 g (1 copinho) de iogurte natural",
+      "sal",
+      "grãos de pimente verde inteiros para enfeitar"
+    ],
+    "preparo": [
+      "Leve para aquecer no forno o óleo com a manteiga num frigideira grande. Adicione a cebola e frite lentamente até que esteja macia. Retire a cebola com uma escumadeira e mantenha quente.",
+      "Junte os bifes e frite sobre fogo forte até que dourem dos dois lados. Retire os bifes da frigideira e mantenha aquecidos.",
+      "Junte a pimenta verde amassada, o purê de tomate, o catchup e o caldo de carne. Deixe levantar fervura. Abaixe o fogo e cozinhe lentamente por 5 minutos.",
+      "Junte o iogurte e mexa. Aqueça mas não deixe ferver. Adicione sal a gosto.",
+      "Despeje o molho numa travessa aquecida. Disponha os bifes por cima de modo que não fiquem cobertos com o molho. Arrume algumas rodelas de cebola sobre os bifes, enfeite com os grãos de pimenta verde inteiros e sirva a seguir."
+    ]
+  },
+  {
+    "slug": "torta-de-peixe",
+    "titulo": "Torta de Peixe Cremosa com Batata e Legumes",
+    "descricao": "A torta de peixe cremosa é uma receita clássica e reconfortante, perfeita para quem busca um prato completo, nutritivo e cheio de sabor. Preparada com filé de peixe cozido em leite aromatizado com ervas e especiarias, a receita ganha uma textura delicada e um sabor suave e equilibrado. A combinação de purê de batata cremoso, legumes e ovos picados cria uma base rica e nutritiva, enquanto a manteiga e o leite ajudam a formar um recheio macio e saboroso. Temperos como louro e pimenta-do-reino trazem profundidade ao prato, resultando em uma torta bem aromática e agradável ao paladar.Finalizada no forno até ficar levemente dourada e decorada com tomates, a torta de peixe é ideal para almoços em família, refeições completas ou ocasiões especiais.",
+    "imagem": "/src/assets/receitas/torta_de_peixe.png",
+    "categoria": "Tortas",
+    "tempoPreparo": "90min",
+    "rendimento": "4 porções",
+    "nivel": "Difícil",
+    "ingredientes": [
+      "½ kg de filé de peixe",
+      "1 ¾ xícara de leite",
+      "1 cebola pequena cortada em quatro",
+      "2 folhas de louro",
+      "4 cravos",
+      "6 grãos de pimenta-do-reino preta",
+      "1 kg de batata",
+      "sal a gosto",
+      "1 lata de seleta de legumes",
+      "4 ½ colheres (sopa) de manteiga",
+      "⅓ xícara de leite",
+      "4 colheres (sopa) de cebolinha verde picada",
+      "pimenta-do-reino a gosto",
+      "⅓ xícara de farinha de trigo",
+      "1 colher (sopa) de purê de tomate",
+      "3 tomates cortados em rodelas, para enfeitar"
+    ],
+    "preparo": [
+      "Preaqueça o forno a uma temperatura baixa (150ºC).",
+      "Coloque os filés de peixe numa fôrma refratária e cubra com o leite. Junte a cebola cortada, as folhas de louro, os cravos e a pimenta. Cubra com papel impermeável e asse por uns 20 minutos ou até que o peixe esteje assado, isto é, até a sua carne ficar opaca.",
+      "Enquanto isoo, cozinhe as batatas com casca em água temperada com sal por uns 20 minutos até que estejam cozidas. Enquanto as batatas cozinham, escorra o líquido da lata de seleta de legumes.",
+      "Quando o peixe estive pronto, retire da fôrma e coe o líquido para uma tigela. Aumente a temperatura do forno para 200ºC.",
+      "Escorra as batatas, descasque e amasse com 3 colheres (sopa) de manteiga e o leite. Junte a cebolinha verde picada, misture muito bem e deixe a mistura reservada.",
+      "Desfie o peixe numa vasilha, retirando eventuais pedaços de pele ou espinhos. Adicione os legumes, os ovos cozidos duros e a salsinha. Tempere bem com sal e pimenta-do-reino a gosto.",
+      "Derreta a manteiga restante. Polvilhe com a farinha de trigo e mexa sobre fogo lento por 2 minutos até que doure ligeiramente. Retire do fogo e adicione aos poucos o líquido coado do cozimento do peixe. Leve ao fogo novamente e adicione o purê de tomate. Cozinhe lentamente mexendo sempre até que o molho esteja grosso e liso.",
+      "Despeje este molho sobre a mistura de peixe e mexa cuidadosamente. Verifique o tempero.",
+      "Coloque a mistura de peixe com o molho numa fôrma refratária untada. Cubra por igual com o purê de batata e faça um desenho passando um garfo na superfície.",
+      "Leve ao forno por 20 a 30 minutos até que esteja bem quente. Enfeite com as rodelas de tomate. Sirva bem quente."
+    ]
+  },
+  {
+    "slug": "cozido-de-carne-e-bolinhos",
+    "titulo": "Cozido de Carne com Legumes e Bolinhos Caseiros",
+    "descricao": "O cozido de carne com bolinhos é uma receita tradicional e reconfortante, perfeita para quem busca um prato completo, nutritivo e cheio de sabor. Preparado com cubos de alcatra cozidos lentamente, o prato ganha uma textura macia e suculenta, absorvendo os aromas dos temperos e do caldo de carne. A combinação de legumes como cenoura, cebola e salsão traz profundidade e equilíbrio ao preparo, enquanto o toque de suco de laranja adiciona leve frescor e realça os sabores. O molho encorpado, enriquecido com purê de tomate e ervas, torna o cozido ainda mais saboroso e aromático. Os bolinhos caseiros preparados com farinha, toicinho e ervas completam a receita, trazendo textura e tornando o prato ainda mais substancioso. Ideal para almoços em família, refeições completas ou dias mais frios, este cozido é uma opção clássica e muito nutritiva.",
+    "imagem": "/src/assets/receitas/cozido_de_carne_e_bolinhos.png",
+    "categoria": "Cozidos",
+    "tempoPreparo": "2h",
+    "rendimento": "4 porções",
+    "nivel": "Difícil",
+    "ingredientes": [
+      "800 g de alcatra sem gordura, cortada em cubos de 2,5 cm",
+      "2 ½ colheres (sopa) de farinha de trigo",
+      "sal e pimenta-do-reino a gosto",
+      "1 ½ colher (sopa) de manteiga ou margarina",
+      "2 colheres (sopa) de óleo",
+      "1 cebola picada grosso",
+      "2 cenouras grandes cortadas em rodelas finas",
+      "2 talos de salsão picados",
+      "2 colheres (chá) de purê de tomate",
+      "2 colheres (chá) de salsinha picada",
+      "uma pitada de pimenta-do-reino",
+      "1 ¼ xícara de caldo de carne",
+      "suco de 1 laranja"
+    ],
+    "bolinhos": [
+      "¾ xícara de farinha de trigo",
+      "uma pitada de sal",
+      "1 colher (chá) de fermento em pó",
+      "¼ xícara (50 g) de toicinho fresco",
+      "1 colher (sopa) de salsinha bem picada",
+      "4 colheres (sopa) de água aproximadamente"
+    ],
+    "preparo": [
+      "Coloque a farinha, o sal e a pimenta num saco de plástico. Acrescente a carne e agite o saco de plástico vigorosamente até que a carne esteja bem coberta com a farinha.",
+      "Aqueça a manteiga e 1 colher (sopa) de óleo numa panela. Junte a carne e frite em fogo forte por uns 3 minutos, mexendo até que doure de todos os lados. Frite a carne mais vezes, se for necessário. Retire da panela com uma escumadeira e reserve.",
+      "Coloque o óleo restante na panela e junte a cebola, a cenoura e o salsão e frite em fogo médio por 3 minutos. Coloque a carne novamente e junte o purê de tomate, a salsinha, a pimenta, o caldo e o suco de laranja.",
+      "Deixe levantar fervura, mexendo e raspando o fundo e os lados com uma colher de pau. Abaixe o fogo e tampe e cozinhe lentamente por 1 hora e 30 minutos a 2 horas até que a carne esteja macia.",
+      "Mais ou menos 10 minutos antes do fim do cozimento, prepare os bolinhos: peneire a farinha, o fermento e o sal numa vasilha e acrescente o toicinho e a salsinha. Junte a água misturando até obter uma massa macia, mas não pegajosa. Amasse levemente e forme 8 bolas.",
+      "Verifique o tempero do cozido de carne. Coloque os bolinhos sobre o cozido. tampe a panela e cozinhe lentamente por 15 minutos ou até que os bolinhos estufem.",
+      "Sirva imediatamente da própria panela."
+    ]
+  },
+  {
+    "slug": "frango-a-paprica",
+    "titulo": "Frango à Páprica Cremoso com Molho",
+    "descricao": "O frango à páprica é uma receita clássica, cremosa e cheia de sabor, perfeita para quem busca um prato principal reconfortante e aromático. Preparado com pedaços de frango cozidos lentamente, o prato ganha um molho rico e aveludado à base de páprica doce, cebola e creme de leite, que proporciona sabor suave e levemente adocicado. A páprica traz cor vibrante e aroma marcante, enquanto o caldo de galinha intensifica o sabor e mantém a carne macia e suculenta. O toque de limão equilibra o molho, adicionando leve frescor ao preparo. Finalizado com cebolinha picada, o prato fica ainda mais aromático e visualmente apetitoso. Ideal para almoços em família, refeições especiais ou pratos reconfortantes do dia a dia, o frango à páprica é uma opção simples, elegante e cheia de personalidade.",
+    "imagem": "/src/assets/receitas/frango_a_paprica.png",
+    "categoria": "Carnes",
+    "tempoPreparo": "1h e 40min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "4 pedaços de frango sem pele",
+      "1 colher (sopa) de manteiga ou margarina",
+      "½ kg de cebola bem picada",
+      "1 dente de alho amassado (opcional)",
+      "1 colher (sopa) de páprica doce",
+      "sal e pimenta-do-reino a gosto",
+      "½ xícara mais 2 colheres (sopa) de caldo de galinha quente",
+      "½ xícara mais 2 colheres (sopa) de creme de leite azedado com ½ colher (sopa) de suco de limão",
+      "cebolinha verde picada para enfeitar"
+    ],
+    "preparo": [
+      "Preaqueça o forno em temperatura média (180ºC).",
+      "Derreta a manteiga numa panela grande. Junte a cebola e o alho, tampe e frite em fogo lento por uns 45 minutos, até que se forme um purê macio e dourado.",
+      "Aumente o fogo ligeiramente e polvilhe com a páprica, o sal e a pimenta-do-reino. Retire tudo da panela e coloque numa fôrma refratária. Junte os pedaços de frango e vá cobrindo com purê de cebola. Tampe a fôrma refratária ou cubra com papel de alumínio e deixe assar no forno moderado por 45 minutos ou até que espantando a parte mais carnuda do frango com um garfo o líquido saia transparente. Verifique a fôrma frequentemente e acrescente um pouco mais de caldo quando estiver secando.",
+      "Aqueça o creme de leite azedado, mas não deixe ferver. Despeje sobre o frango e povilhe com a cebolinha verde. Sirva imediatamente."
+    ]
+  },
+  {
+    "slug": "sardinhas-grelhadas",
+    "titulo": "Sardinhas Grelhadas com Limão",
+    "descricao": "As sardinhas grelhadas são uma receita simples, saudável e cheia de sabor, perfeita para quem busca uma refeição leve e nutritiva. Preparadas na grelha até ficarem douradas e suculentas, as sardinhas ganham um toque especial com suco de limão, que realça o sabor natural do peixe e traz frescor ao prato. Temperadas com sal, pimenta-do-reino e alcaravia, as sardinhas ficam aromáticas e levemente cítricas, com textura macia por dentro e levemente crocante por fora. O preparo rápido mantém a suculência e preserva os nutrientes do peixe, tornando a receita uma excelente opção para uma alimentação equilibrada. Ideais para almoços leves, jantares rápidos ou refeições saudáveis do dia a dia, as sardinhas grelhadas são práticas, econômicas e muito saborosas.",
+    "imagem": "/src/assets/receitas/sardinhas_grelhadas.png",
+    "categoria": "Peixes",
+    "tempoPreparo": "20min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "4 sardinhas médias",
+      "sal e pimenta-do-reino a gosto",
+      "3 colheres (sopa) de suco de limão",
+      "1 colher (chá) de alcaravia"
+    ],
+    "preparo": [
+      "Lave as sardinhas e seque. Faça 3 cortes em diagonal na pele de um dos lados de cada sardinha.",
+      "Esquente a grelha em temperatura moderada. Tempere as sardinhas com sal e pimenta. Respingue a parte de dentro com um pouco de suco de limão e coloque na grelha, com a parte cortada para cima. Respingue com mais suco de limão e polvilhe com metade da alcaravia.",
+      "Grelhe as sardinhas durante 5 minutos, vire e respingue com o restante do suco de limão e da alcaravia. Grelhe durante mais 5 minutos e coloque sobre uma travessa aquecida. Sirva imediatamente."
+    ]
+  },
+  {
+    "slug": "fritada-de-frango",
+    "titulo": "Fritada de frango",
+    "descricao": "A fritada de frango é uma receita prática, nutritiva e cheia de sabor, ideal para aproveitar frango cozido que já esteja pronto. Com tirinhas suculentas de frango, ovos batidos e macarrão ninho cozido no caldo de galinha, o prato ganha textura macia por dentro e levemente dourada por fora, graças à manteiga ou margarina utilizada no preparo. Temperada com páprica doce, pimenta-do-reino e um toque opcional de cominho e alho amassado, essa fritada combina aromas marcantes e sabor equilibrado. É uma excelente opção para almoço ou jantar rápido, servindo até 4 porções, e pode ser acompanhada de salada fresca para uma refeição completa.",
+    "imagem": "/src/assets/receitas/fritada_de_frango.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "200 g de frango cozido, cortado em tirinhas",
+      "4 ovos",
+      "2 litros de caldo de galinha",
+      "1 ½ colher (chá) de sal",
+      "100 g macarrão ninho médio",
+      "pimenta-do-reino",
+      "2 colheres (chá) de páprica doce",
+      "1 colher (chá) de cominho moído (opcional)",
+      "1 dente de alho amassado (opcional)",
+      "3 colheres (sopa) de manteiga ou margarina"
+    ],
+    "preparo": [
+      "Coloque o caldo e ½ colher (chá) de sal em uma panela grande e deixe ferver em fogo forte.",
+      "Junte o macarrão e deixe ferver. Diminua o fogo, tampe a panela e cozinhe por 6 a 8 minutos ou até ficar cozido, mexendo de vez em quando.",
+      "Escorra o macarrão",
+      "Bata os ovos com o restante do sal, a pimenta, a páprica, o cominho e o alho até obter uma mistura espumosa. Junte o frango e o macarrão e mexa.",
+      "Derreta a manteiga em uma frigideira grande sobre fogo moderado. Quando a manteiga parar de espumar, junte a mistura de frango e ovo, diminua o fogo e deixe cozinhar.",
+      "Cozinhe lentamente por 20 a 30 minutos ou até que o fundo esteja dourado e a mistura cozida. Esquente o forno na temperatura máxima.",
+      "Coloque a frigideira no forno durante 10 ou 15 minutos até esquentar bem, secando um pouco. Sirva quente, cortada em trinângulos."
+    ]
+  },
+  {
+    "slug": "enrolado-de-queijo",
+    "titulo": "Enrolado de queijo",
+    "descricao": "Os enrolados de queijo são uma opção irresistível para quem busca uma receita prática, cremosa e cheia de sabor. Preparados com fatias de queijo prato ou gouda recheadas com ricota temperada, pimenta-do-reino e salsinha, e envolvidas por presunto, eles formam rolinhos delicados e muito apetitosos. O prato ganha ainda mais destaque com o molho de tomate caseiro, feito com cebola, alho, tomate fresco, folha de louro e um toque de açúcar para equilibrar a acidez. Finalizado com ervas como salsinha ou manjericão, o molho envolve os enrolados, deixando-os suculentos e aromáticos. Ideal para servir como entrada, acompanhamento ou prato principal leve, essa receita rende 4 porções e combina perfeitamente com arroz branco, salada ou até uma massa simples. Uma preparação elegante, mas fácil de fazer, perfeita para o dia a dia ou ocasiões especiais.",
+    "imagem": "/src/assets/receitas/enrolados_de_queijo.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "1h",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "8 fatias de queijo prato ou tipo gouda",
+      "8 fatias grossas de presunto",
+      "250 g de ricota",
+      "pimenta-do-reino",
+      "1 colher (sopa) de salsinha"
+    ],
+    "molho": [
+      "1 colher (sopa) de manteiga",
+      "1 colher (sopa) de óleo",
+      "1 cebola pequena bem picada",
+      "1 dente de alho amassado",
+      "2 xícaras de tomate cortado em pedaços",
+      "1 colher (chá) de açúcar",
+      "1 folha de louro",
+      "1 colher (chá) de salsinha ou manjeiricão picados",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Esquente o forno a 200ºC.",
+      "Faça o molho da seguinte maneira: derreta a manteiga com óleo em panela e refogue a cebola e o alho até ficarem macios. Junte os outros ingredientes do molho e deixe ferver. Diminua o fogo, tampe a panela e deixe cozinhar durante 30 minutos. Se necessário, verifique o tempero.",
+      "Enquanto isso, coloque uma fatia de queijo sobre cada fatia de presunto. Tempere a ricota com pimenta e adicione a salsinha. Divida essa sobre cada fatia de queijo e enrole. Coloque em uma fôrma refratária, em uma só camada, com as emendas para baixo. Despeje o molho sobre os rolinhos e leve ao forno por 10 minutos ou até formar bolhas em cima. Se quiser que fiquem gratinados, polvilhe com queijo ralado misturado com migalhas de pão antes de levar ao forno."
+    ]
+  },
+  {
+    "slug": "batatas-recheadas-com-bacon-e-ovos",
+    "titulo": "Batatas recheadas com bacon e ovos",
+    "descricao": "As batatas recheadas com bacon e ovos são uma receita rústica, cremosa e extremamente saborosa, perfeita para quem aprecia combinações clássicas e reconfortantes. Assadas até ficarem macias por dentro e levemente crocantes por fora, as batatas são recheadas com um creme feito da própria polpa misturada com manteiga, leite e queijo tipo cheddar (ou prato), garantindo textura aveludada e sabor marcante. O bacon adiciona um toque defumado e crocante, enquanto os ovos — com claras e gemas incorporadas ao recheio — deixam a preparação ainda mais rica e estruturada. Finalizada com salsinha fresca, sal e pimenta-do-reino, a receita equilibra intensidade e frescor. Ideal para servir como prato principal ou acompanhamento especial, rende 4 porções generosas e combina muito bem com uma salada verde ou legumes grelhados. Uma opção prática, nutritiva e perfeita para variar o cardápio do dia a dia.",
+    "imagem": "/src/assets/receitas/batatas_recheadas_com_bacon_e_ovos.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "1h e 45min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "4 batatas grandes",
+      "100 g de bacon",
+      "100 g de queijo tipo cheddar (ou prato)",
+      "1 colher (sopa) de manteiga",
+      "4 colheres (sopa) de leite",
+      "2 ovos, claras e gemas separadas",
+      "3 colheres (sopa) de salsinha picada",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Esquente o forno a 200ºC.",
+      "Lave bem as batatas e fure-as dos dois lados com um garfo. Não descasque e leve ao forno, sobre uma grade, durante 1 hora e 15 minutos, ou até ficarem macias.",
+      "Frite o bacon sem gordura até ficar crocante. Escorra o óleo excedente e pique o bacon.",
+      "Rale o queijo.",
+      "Retire as batatas do forno, corte ao meio pelo comprimento e retire o miolo com uma colher.",
+      "Amasse o miolo da batata com a manteiga, o leite e as gemas. Adicione o bacon, o queijo, a salsinha e tempere com o sal e a pimenta.",
+      "Bata as claras em neve e misture delicadamente ao miolo.",
+      "Recheie cada metade das batatas e coloque-as num prato refratário. leve ao forno durante 15 minutos até o recheio crescer e dourar."
+    ]
+  },
+  {
+    "slug": "sopa-de-legumes",
+    "titulo": "Sopa de legumes",
+    "descricao": "A sopa de legumes é uma receita leve, nutritiva e reconfortante, perfeita para os dias mais frios ou para quem busca uma refeição equilibrada e caseira. Preparada com batatas, cenouras, cebola e pimentão vermelho, cozidos lentamente até ficarem macios, ela combina simplicidade e sabor em cada colherada. Temperada com azeite de oliva e finalizada com salsinha fresca, a sopa ganha aroma delicado e toque especial. A textura pode ser mantida rústica, com pedaços de legumes, ou levemente cremosa, dependendo do preparo. Para complementar, os croutons feitos com pão amanhecido dourado no óleo adicionam crocância e contraste à suavidade do caldo. Rendendo 4 porções, é uma opção econômica, saudável e ideal para o dia a dia, podendo ser servida como entrada ou prato principal leve.",
+    "imagem": "/src/assets/receitas/sopa_de_legumes.png",
+    "categoria": "Sopas",
+    "tempoPreparo": "45min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "6 xícaras de água",
+      "1 cebola média",
+      "3 batatas médias cortadas em pedaços",
+      "2 cenouras médias cortadas em pedaços",
+      "sal a gosto",
+      "1 colher (sopa) de salsinha picada",
+      "¼ xícara de pimentão vermelho",
+      "1 colher (sopa) de azeite de oliva"
+    ],
+    "preparo": [
+      "Numa panela, cozinhe todos os ingredientes na quantidade indicada de água, até que fiquem macios.",
+      "Prepare os croutons (acompanhamentos): esquente bem o óleo numa frigideira em fogo médio. Frite os cubinhos de pão até dourar. Retire da frigideira e escorra em papel absovente.",
+      "Passe os legumes e a água onde foram cozidos pelo liquidificador.",
+      "Ponha a sopa novamente na panela e leve de volta ao fogo aquecendo até ferver. Salpique com o sal e deixe ferver em fogo baixo por cerca de 5 minutos.",
+      "Desligue o fogo, coloque o azeite, mexa bem e adicione a salsinha e o pimentão.",
+      "Sirva a sopa de legumes em pratos individuais preaquecidos. Sirva os croutons separadamente."
+    ],
+    "acompanhamento": [
+      "4 colheres (sopa) de óleo",
+      "4 fatias de pão amanhecido, descascadas e cortadas em cubinhos"
+    ]
+  },
+  {
+    "slug": "hamburgueres-de-presuntada",
+    "titulo": "Hambúrgueres de presuntada",
+    "descricao": "Os hambúrgueres de presuntada são uma alternativa prática e saborosa ao hambúrguer tradicional, ideais para um lanche rápido e diferente. Preparados com presuntada amassada e temperada com picles de pepino, mostarda, maionese e pimenta-do-reino, eles ganham um sabor marcante, levemente ácido e muito equilibrado. Após moldados, os hambúrgueres são montados no pão com queijo cheddar derretido e finalizados com rodelas de tomate, criando uma combinação cremosa e suculenta. O contraste entre o sabor intenso da presuntada e a suavidade do queijo torna cada mordida ainda mais apetitosa. Rendendo 4 porções, essa receita é perfeita para um lanche da tarde, jantar descontraído ou até para variar o cardápio do fim de semana com algo simples, econômico e cheio de sabor.",
+    "imagem": "/src/assets/receitas/hamburgueres_de_presuntada.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "30min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "330 g (1 lata) de presuntada",
+      "2 colheres (sopa) de picles de pepino cortado em rodelas",
+      "1 colher (sopa) de mostarda",
+      "6 colheres (sopa) de maionese",
+      "pimenta-do-reino a gosto",
+      "8 metades de pão de hambúrguer",
+      "200 g de queijo tipo cheddar ralado",
+      "8 rodelas de tomate para enfeitar"
+    ],
+    "preparo": [
+      "Esquente o forno em temperatura média.",
+      "Amasse a presuntada com as rodelas de pepino, a mostarda e a maionese até ficar uma pasta macia. Prove e tempere com um pouco de pimenta-do-reino.",
+      "Passe a mistura de presuntada sobre as metades de pão.",
+      "Asse durante 15 minutos, ou até a presuntada começar a dourar.",
+      "Polvilhe o queijo por cima e esquente por mais 5 minutos ou até que o queijo derreta.",
+      "Sirva quente, com uma rodela de tomate por cima."
+    ]
+  },
+  {
+    "slug": "forminhas-de-ricota-e-presunto",
+    "titulo": "Forminhas de ricota e presunto",
+    "descricao": "As forminhas de ricota e presunto são uma opção delicada e saborosa, perfeitas para servir como entrada, lanche ou acompanhamento leve. Preparadas com ricota cremosa, ovos levemente batidos e cubinhos de presunto, elas combinam textura macia por dentro com uma superfície levemente dourada após irem ao forno. A cebola refogada e os cogumelos picados acrescentam profundidade de sabor, enquanto a noz-moscada traz um toque aromático especial. Temperadas com sal e pimenta-do-reino na medida certa, essas forminhas ficam equilibradas e muito agradáveis ao paladar. Assadas até ficarem firmes e finalizadas com manteiga derretida e raminhos de salsinha para decorar, rendem 4 porções e são ideais para compor mesas de brunch, servir em reuniões ou variar o cardápio do dia a dia com algo simples, elegante e nutritivo.",
+    "imagem": "/src/assets/receitas/forminhas_de_ricota_e_presunto.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "35min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 xícara de ricota",
+      "1 colher (sopa) de óleo",
+      "1 cebola pequena, bem picada",
+      "½ xícara de cogumelos picados",
+      "2 ovos, ligeiramente batidos",
+      "¼ xícara de presunto cortado em cubinhos",
+      "1 pitada de noz-moscada ralada",
+      "sal e pimenta-do-reino",
+      "1 ½ colher (sopa) de manteiga derretida",
+      "raminhos de salsinha para decorar"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 200ºC.",
+      "Esquente o óleo numa panela pequena, adicione a cebola e frite lentamente até amolecer.",
+      "Junte o cogumelo e frite durante 1 a 2 minutos, mexendo sem parar. Retire a panela do fogo e deixe esfriar.",
+      "Passe a ricota por uma peneira e adicione aos poucos o ovo, batendo sem parar.",
+      "Junte o presunto e a mistura de cebola e cogumelo. Tempere com a noz-moscada, o sal e a pimenta.",
+      "Pincele 4 forminhas refratárias com a manteiga derretida e encha com a mistura.",
+      "Coloque as forminhas numa assadeira e asse por 20 a 25 minutos, até ficarem crescidas e douradas por cima. Sirva imediatamente, decoradas com raminhos de salsinha."
+    ]
+  },
+  {
+    "slug": "fondue-de-queijo",
+    "titulo": "Fondue de queijo",
+    "descricao": "O fondue de queijo é uma receita clássica, perfeita para reunir família e amigos em momentos especiais. Cremoso e aromático, ele combina queijos como gouda ou gruyère com cheddar, derretidos suavemente com vinho branco seco, criando uma mistura intensa e envolvente. A adição de alho, noz-moscada e um toque opcional de kirsch realça os sabores, enquanto a farinha ajuda a garantir a textura lisa e homogênea. O resultado é um creme de queijo encorpado, ideal para ser mantido aquecido e servido diretamente na panela de fondue. Para acompanhar, cubinhos de pão francês e uma seleção de legumes crus — como salsão, couve-flor e cenoura — trazem contraste de textura e equilíbrio ao prato. Rendendo 4 porções, essa receita é sofisticada na apresentação, mas simples no preparo, sendo uma excelente escolha para noites frias ou ocasiões especiais.",
+    "imagem": "/src/assets/receitas/fondue_de_queijo.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "250 g de queijo tipo gouda ou tipo gruyère, ralado fino",
+      "250 g de queijo tipo cheddar, ralado",
+      "1 dente de alho (opcional)",
+      "1 ½ xícara de vinho branco seco",
+      "1 colher (sopa) de farinha de trigo",
+      "1 colher (chá) de kirsch (opcional)",
+      "uma pitada de noz-moscada ralada",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Corte o dente de alho ao meio, se for usar, e esfregue cada metade no interior de uma panela para fondue ou uma panela com fundo grosso.",
+      "Coloque o vinho na panela e esquente até começar a ferver.",
+      "Coloque a farinha num saquinho plástico, adicione os queijos ralados e agite bem.",
+      "Diminua o fogo e junte lentamente essa mistura de farinha e queijo, sem parar de mexer.",
+      "Adicione o kirsch, a noz-moscada, o sal e a pimenta a gosto. Cozinhe durante 10 a 15 minutos em fogo o mais baixo possível, para misturar os sabores.",
+      "Para servir: coloque a panela de fondue sobre uma espiriteira ou um réchaud, ou coloque o fondue em cumbuquinhas individuais previamente aquecidas.",
+      "Sirva imediatamente acompanhado de garfinhos compridos próprios para mergulhar os legumes e os cubinhos de pão no fondue."
+    ],
+    "acompanhamento": [
+      "uma seleção de legumes crus (talos de salsão, raminhos de couve-flor, palitos de cenoura)",
+      "pão francês cortado em cubinhos"
+    ]
+  },
+  {
+    "slug": "gravatinhas-com-pimentões",
+    "titulo": "Gravatinhas com pimentões",
+    "descricao": "As gravatinhas com pimentões são uma receita simples, colorida e cheia de sabor, ideal para quem aprecia pratos leves com toque mediterrâneo. O macarrão tipo gravatinha envolve perfeitamente o molho feito com pimentões vermelho e verde em tiras, refogados no azeite de oliva com cebola e alho. A combinação das azeitonas pretas com o orégano traz um aroma marcante e um contraste levemente salgado, equilibrado com sal e pimenta-do-reino na medida certa. O resultado é uma massa aromática, com textura delicada e ingredientes que se complementam harmoniosamente. Rendendo 4 porções, é uma excelente opção para um almoço rápido ou jantar prático, podendo ser servida como prato principal ou acompanhada de uma salada fresca. Uma receita versátil, econômica e perfeita para o dia a dia.",
+    "imagem": "/src/assets/receitas/gravatinhas_com_pimentoes.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "30min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "250 g (½ pacote) de macarrão tipo gravatinha",
+      "2 pimentões (1 vermelho e 1 verde) pequenos, sem sementes",
+      "½ xícara de azeitona preta",
+      "3 colheres (sopa) de azeite de oliva",
+      "1 cebola pequena, bem picada",
+      "1 dente de alho amassado (opcional)",
+      "1 colher (chá) de orégano",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Corte os dois pimentẽos em tiras finas de 5 cm de comprimento.",
+      "Esquente o azeite numa panela grande, adicione a cebola e o alho e frite devagar durante 5 minutos, até amaciar e dourar ligeiramente.",
+      "Adicione os pimentões, o orégano, o sal e a pimenta e cozinhe por mais 10 minutos, mexendo de vez em quando.",
+      "Enquanto isso, ferva a água para cozinhar o macarrão, coloque sal, junte o macarrão e deixe ferver novamente. Diminua o fogo e cozinhe por 10 minutos, até o macarrão ficar pronto. Escorra bem.",
+      "Adicione o macarrão e as azeitonas ao refogado de pimentões e misture bem. Coloque numa travessa aquecida e sirva imediatamente."
+    ]
+  },
+  {
+    "slug": "ovos-com-camarão",
+    "titulo": "Ovos com camarão",
+    "descricao": "Os ovos com camarão são uma receita saborosa e marcante, que combina a delicadeza dos frutos do mar com a cremosidade dos ovos em um preparo equilibrado entre o agridoce e o levemente ácido. O camarão miúdo traz textura macia e sabor intenso, enquanto o molho à base de tomate, purê de tomate, açúcar mascavo e vinagre de vinho cria um contraste rico e envolvente. O toque de molho inglês adiciona profundidade ao prato, realçando os sabores e garantindo um resultado aromático e bem temperado. Os ovos completam a receita, deixando a mistura mais estruturada e nutritiva. Com rendimento para 4 porções, é uma ótima opção para variar o cardápio com um prato diferente, que pode ser servido com arroz branco ou pão fresco para aproveitar todo o molho. Uma combinação simples, mas cheia de personalidade.",
+    "imagem": "/src/assets/receitas/ovos_com_camarao.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "20min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "200 g de camarão miúdo",
+      "4 ovos",
+      "1 ¾ xícara de tomate, sem pele, sem sementes e cortado em pedaços",
+      "½ xícara de água",
+      "1 colher (sopa) de purê de tomate",
+      "2 colheres (sopa) de açúcar mascavo",
+      "2 colheres (sopa) de vinagre de vinho",
+      "1 colher (sopa) de molho inglês",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Coloque os tomates numa panela com água, o purê de tomate, o açúcar, o vinagre e o molho inglês.",
+      "Deixe ferver, mexendo bem para amassar os tomates.",
+      "Diminua o fogo e deixe cozinhar, durante 10 minutos, sem tampar.",
+      "Enquanto isso, cozinhe os ovos durante 7 a 8 minutos, ou até ficarem duros.",
+      "Misture os camarões com o molho de tomate e cozinhe por mais 5 minutos. Tempere com sal e pimenta.",
+      "Descasque os ovos, corte ao meio e coloque sobre uma travessa aquecida. Com uma colher, coloque o molho por cima dos ovos e sirva."
+    ]
+  },
+  {
+    "slug": "pizza-frita",
+    "titulo": "Pizza frita",
+    "descricao": "A pizza frita é uma versão prática e irresistível da tradicional pizza, perfeita para quem busca uma receita rápida e cheia de sabor. Com massa simples, preparada com farinha de trigo, fermento e margarina, ela fica macia por dentro e levemente crocante por fora após a fritura. A cobertura combina tomate bem picado temperado com orégano e pimenta-do-reino, fatias finas de muçarela que derretem perfeitamente e filés de anchova que acrescentam um toque intenso e levemente salgado ao conjunto. O resultado é uma pizza de sabor marcante e textura contrastante. Ideal para servir em porções individuais, rende 4 porções e é uma ótima opção para um lanche diferente, jantar rápido ou reunião informal. Simples no preparo e surpreendente no sabor.",
+    "imagem": "/src/assets/receitas/pizza_frita.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "30min",
+    "rendimento": "2 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 xícara de tomate médio bem picado",
+      "1 colher (chá) de orégano",
+      "pimenta-do-reino",
+      "1 colher (sopa) de óleo",
+      "8 fatias finas de mozarela",
+      "5 filés de anchova em óleo, escorridos e deixados de molho em leite durante 20 minutos",
+      "¾ xícara de farinha de trigo",
+      "1 colher (chá) de fermento em pó",
+      "1 pitada de sal",
+      "1 ½ colher (sopa) de margarina",
+      "3 colheres (sopa) de água"
+    ],
+    "preparo": [
+      "Misture o tomate com o orégano e tempere com a pimenta-do-reino.",
+      "Faça a massa: peneire farinha, o fermento e o sal numa vasilha e incorpore a margarina. Junte a água e amasse bem.",
+      "Esquente o óleo numa frigideira de 20 cm de diâmetro. Abra a massa com o rolo até ficar na medida da frigideira. Coloque a massa aberta na frigideira e cozinhe em fogo médio por 4 minutos. Vire a massa e cozinhe por mais 3 a 4 minutos.",
+      "Espalhe o molho sobre a massa cozida e cubra com a mozarela e os filés de anchova.",
+      "Esquente o forno ao máximo.",
+      "Coloque a pizza num prato refratário e leve ao forno, até derreter o queijo. Sirva quente."
+    ]
+  },
+  {
+    "slug": "sopa-de-feijão",
+    "titulo": "Sopa de feijão",
+    "descricao": "A sopa de feijão é um prato nutritivo, encorpado e cheio de sabor, perfeito para os dias mais frios ou para uma refeição completa e reconfortante. Preparada com feijão-rosinha previamente deixado de molho, ela ganha textura cremosa e sabor profundo ao ser cozida com caldo de galinha e legumes frescos. O toque especial fica por conta do toucinho defumado, que adiciona aroma marcante e leve defumado ao preparo. Cebola, alho-poró, salsão e cenoura complementam a base, trazendo equilíbrio e riqueza ao prato. O tomate e o orégano reforçam o sabor, enquanto a salsinha fresca finaliza com leveza e frescor. Rendendo 4 porções, é uma receita substanciosa e ideal como prato principal, podendo ser servida com pão fresco ou torradas. Uma combinação clássica, caseira e cheia de tradição.",
+    "imagem": "/src/assets/receitas/sopa_de_feijao.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "3h",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "1 ¾ xícara de feijão-rosinha deixado de molho de véspera e escorrido",
+      "1 colher (sopa) de óleo",
+      "1 cebola grande picada",
+      "2 fatias grossas de toucinho defumado, sem pele e picado",
+      "2 alhos-porós picados",
+      "3 talos de salsão picados",
+      "2 cenouras cortadas em rodelas",
+      "2 dentes de alho amassados (opcional)",
+      "3 xícaras de caldo de galinha",
+      "1 xícara de tomate em pedaços",
+      "1 colher (chá) de orégano",
+      "sal e pimenta-do-reino a gosto",
+      "2 colheres (sopa) de salsinha picada para decorar"
+    ],
+    "preparo": [
+      "Cubra o feijão com água fervente e deixe ferver durante 10 minutos. Tampe a panela e cozinhe em fogo baixo durante 2 horas ou até ficar macio. Escorra.",
+      "Esquente o óleo numa panela grande, junte a cebola e o toucinho e frite por 2 minutos. Adicione o alho poró, o salsão, a cenoura e o alho e cozinhe por mais 2 minutos.",
+      "Adicione o caldo de galinha, o feijão, o tomate e o orégano. Tempere com bastante sal e pimenta. Deixe ferver, diminua o fogo, tampe a panela e cozinhe durante 30 minutos, até os legumes ficarem macios. Polvilhe a sopa com salsinha picada para decorar."
+    ]
+  },
+  {
+    "slug": "sanduiches-de-presunto-e-tomate",
+    "titulo": "Sanduíches de presunto e tomate",
+    "descricao": "Os sanduíches de presunto e tomate são uma opção prática e saborosa, perfeita para um lanche reforçado ou refeição rápida. Preparados com fatias de presunto defumado e tomates frescos, eles combinam suculência e leveza em cada mordida. O diferencial da receita está no creme temperado, feito com maionese, mostarda, molho inglês e um toque de molho de soja, que traz profundidade e equilíbrio ao sabor. A cebolinha picada acrescenta frescor, enquanto o queijo-de-minas curado ralado proporciona textura e um leve sabor marcante. Montados em pão tipo baguete e levados ao forno para aquecer e gratinar levemente, esses sanduíches ficam crocantes por fora e cremosos por dentro. Rendendo 4 porções, são ideais para servir em encontros informais, lanches da tarde ou até como opção prática para o jantar.",
+    "imagem": "/src/assets/receitas/sanduiches_de_presunto_e_tomate.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "45min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "8 fatias de presunto defumado",
+      "3 a 4 tomates grandes cortados em fatias",
+      "6 colheres (sopa) de maionese",
+      "1 colher (sopa) de mostarda",
+      "½ colher (chá) de molho inglês",
+      "½ colher (chá) de molho de soja",
+      "3 cebolinhas picadas bem finas",
+      "2 xícaras de queijo-de-minas curado ralado",
+      "sal e pimenta-do-reino a gosto",
+      "1 filão de pão (baguette) de 300 g"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 200ºC.",
+      "Misture a maionese, a mostarda, o molho inglês, o molho de soja, a cebolinha (reservando um pouco para decorar), o queijo e sal e pimenta.",
+      "Corte o pão ao meio e cada metade no sentido do comprimento. Corte fora as pontas.",
+      "Espalhe a mistura de queijo sore os quatro pedaços de pão. Coloque duas fatias de presunto sobre cada pedaço de pão e cubra o presunto com fatias de tomate. Tempere com sal e pimenta.",
+      "Embrulhe cada pedaço de pão com papel de alumínio e coloque lado a lado numa assadeira.",
+      "Asse por 30 minutos ou até derreter o queijo. Sirva quente, decorado com a cebolinha."
+    ]
+  },
+  {
+    "slug": "hamburguer-de-linguiça",
+    "titulo": "Hambúrguer de lingüiça",
+    "descricao": "O hambúrguer de linguiça é uma opção suculenta e cheia de sabor, ideal para quem busca variar o tradicional hambúrguer bovino. Preparado com linguiça de porco fresca, sem a pele, ele ganha textura macia e tempero marcante, característico da carne suína bem condimentada. A combinação com cebola e cenoura raladas traz leveza e umidade à massa, enquanto as migalhas de pão ajudam a dar estrutura. O toque de catchup e molho de pimenta vermelha acrescenta um leve contraste agridoce e picante, equilibrado com sal e pimenta-do-reino. Após moldados e fritos até ficarem dourados por fora e suculentos por dentro, os hambúrgueres rendem 6 porções e podem ser servidos no pão com salada, queijo ou acompanhados de arroz e legumes. Uma receita prática, saborosa e perfeita para um almoço ou lanche reforçado.",
+    "imagem": "/src/assets/receitas/hamburguer_de_linguiça.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "25min",
+    "rendimento": "6 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "½ kg de lingüiça de porco fresca sem pele",
+      "1 cebola média ralada",
+      "1 cenoura grande ralada",
+      "1 xícara de migalha de pão fresco",
+      "4 colheres (sopa) de catchup",
+      "½ colher (chá) de molho de pimenta vermelha",
+      "sal e pimenta-do-reino a gosto",
+      "óleo para a fritura"
+    ],
+    "preparo": [
+      "Misture todos os ingredientes, menos o óleo, numa vasilha grande, com as pontas dos dedos passadas em farinha de trigo. Tempere com sal e pimenta a gosto.",
+      "Com as mãos passadas em farinha de trigo, divida a mistura em 6 porções e forme bolas. Achate-as ligeiramente. Leve à geladeira por 30 minutos, depois deixe descansar em temperatura ambiente por alguns minutos antes de fritar.",
+      "Aqueça um pouco de óleo numa frigideira grande. Frite o hambúrgueres dos dois lados até que dourem e estejam cozidos por dentro.",
+      "Escorra os hambúgueres fritos sobre papel absorvente e sirva imediatamente, ainda quentes."
+    ]
+  },
+  {
+    "slug": "torradas-com-ovos-mexidos",
+    "titulo": "Torradas com ovos mexidos",
+    "descricao": "As torradas com ovos mexidos são uma opção completa e saborosa para o café da manhã, brunch ou lanche reforçado. Preparadas com pão de forma sem casca levemente amanteigado e levado ao forno, elas ficam douradas e crocantes por fora, formando uma base perfeita para o recheio cremoso. Os ovos são misturados com leite, raiz-forte preparada e temperados com sal e pimenta-do-reino, garantindo textura macia e sabor marcante. O presunto picado, o pimentão verde e a cebolinha acrescentam frescor e leve crocância, enquanto o queijo-de-minas curado ralado finaliza com um toque levemente intenso e gratinado. Rendendo 4 porções, é uma receita prática, nutritiva e cheia de personalidade, ideal para variar o cardápio com uma combinação equilibrada entre cremosidade, crocância e sabor.",
+    "imagem": "/src/assets/receitas/torradas_com_ovos_mexidos.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "32min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "5 ovos grandes",
+      "½ xícara de manteiga",
+      "8 fatias de pão de fôrma sem a casca",
+      "6 colheres (sopa) de leite",
+      "1 colher (sopa) de raiz-forte preparada",
+      "sal e pimenta-do-reino a gosto",
+      "¾ xícara de presunto cozido picado",
+      "½ pimentão verde sem sementes e picado",
+      "2 cebolinhas verdes picadas",
+      "½ xícara de queijo-de-minas curado ralado"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 200ºC.",
+      "Derreta ⅓ xícara de manteiga numa panela pequena. Passe com o pincel a manteiga no dois lados de cada fatia de pão. Forre 8 forminhas individuais de 10 cm de diâmetro com as fatias de pão. Aperte bem as fatias para dentro das forminhas deixando as pontas para fora. Asse no forno por 15 a 20 minutos até que as fatias estejam firmes e douradas.",
+      "Prepare os ovos mexidos 5 minutos ante das torradas ficarem prontas. Bata os ovos ligeiramente com o leite e a raiz-forte numa vasilha. Tempere a gosto com sal e pimenta-do-reino.",
+      "Derreta a manteiga restante numa frigideira em fogo médio. Junte os ovos batidos. Abaixe o fogo. Cozinhe mexendo vigorosamente sem parar até que os ovos comecem a engrossar. Retire do fogo imediatamente e continue a mexer até que fiquem cremosos.",
+      "Em seguida, junte o presunto cozido picado, o pimentão, a cebolinha verde e o queijo-de-minas curado ralado. Divida a mistura pelas torradas quentes e sirva logo após em pratos aquecidos."
+    ]
+  },
+  {
+    "slug": "surpresas-de-peixe",
+    "titulo": "Surpresas de peixe",
+    "descricao": "As surpresas de peixe são uma receita deliciosa e criativa, perfeita para quem quer servir peixe de forma diferente e irresistível. Preparadas com filés de linguado delicadamente enrolados com pedaços de queijo prato ou cheddar, elas combinam sabor suave do peixe com a cremosidade do queijo derretido no interior. Após serem passadas em ovos batidos e envolvidas em migalhas de pão fresco, as porções são fritas até ficarem douradas e crocantes por fora, mantendo o interior macio e suculento. O contraste entre a casquinha crocante e o recheio cremoso faz jus ao nome da receita. Com rendimento para 4 porções, é uma excelente opção para um almoço especial ou jantar diferente, podendo ser acompanhada de arroz branco, purê de batatas ou uma salada fresca. Uma combinação simples, mas elegante e cheia de sabor.",
+    "imagem": "/src/assets/receitas/surpresas_de_peixe.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "2 linguados separados em 8 filés",
+      "100 g de queijo prato ou cheddar num pedaço só",
+      "2 ovos grandes batidos",
+      "5 xícaras de migalhas de pão branco fresco",
+      "óleo para a fritura"
+    ],
+    "preparo": [
+      "Lave e seque os filés de peixe com papel absorvente.",
+      "Corte o queijo em 8 pedaços cada um, de comprimento suficiente para caber na largura de um filé de peixe. Coloque um pedaço de queijo sobre cada filé de peixe e enrole começando pelo lado da cauda, deixando o queijo do lado de dentro. Prenda com um palito.",
+      "Despeje os ovos batidos numa vasilha rasa e coloque as migalhas de pão num prato. Passe cada rolinho de peixe inteiro no ovo e depois nas migalhas de pão. Retire para que os rolinhos fiquem bem cobertos apertando bem as migalhas na segunda passada.",
+      "Despeje óleo suficiente na panela para cobrir os rolinhos de peixe e aqueça. Acrescente os rolinhos cuidadosamente com o auxílio de uma escumadeira. Frite por uns 7 minutos ou até que estejam dourados e crocantes (se for necssário, frite em duas vezes). Retire com uma escumadeira e deixe escorrer sobre papel absorvente. Retire os palitos com cuidado e sirva imediatamente com molho tártaro."
+    ]
+  },
+  {
+    "slug": "sopa-de-legumes-finlandesa",
+    "titulo": "Sopa de legumes finlandesa",
+    "descricao": "A sopa de legumes finlandesa é uma receita cremosa e reconfortante, perfeita para dias frios ou para quem busca uma refeição nutritiva e equilibrada. Preparada com batatas, cenouras, couve-flor, ervilhas e vagem, ela combina diferentes texturas e sabores em um caldo rico e bem temperado. O toque especial fica por conta do creme de leite e da gema, que dão mais cremosidade ao preparo, enquanto a manteiga e a farinha ajudam a criar uma base levemente encorpada. A páprica doce acrescenta um aroma suave e delicado, realçando o sabor dos legumes. Finalizada com queijo ralado para acompanhar, essa sopa rende 6 porções e pode ser servida como prato principal leve ou entrada sofisticada. Uma receita tradicional, acolhedora e cheia de sabor, ideal para reunir a família à mesa.",
+    "imagem": "/src/assets/receitas/sopa_de_legumes_finlandesa.png",
+    "categoria": "Sopas",
+    "tempoPreparo": "45min",
+    "rendimento": "6 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "½ kg de batatas descascadas e cortadas em cubinhos",
+      "3 cenouras médias cortadas em cubinhos",
+      "1 ½ xícara de florzinhas de couve-flor",
+      "⅓ xícara de ervilhas",
+      "¾ xícara de vagem cortada",
+      "3 ½ xícaras de caldo de galinha",
+      "sal e pimenta-do-reino a gosto",
+      "2 colheres (sopa) de manteiga ou margarina",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 gema grande",
+      "4 colheres (sopa) de creme de leite",
+      "¼ colher (chá) de páprica doce",
+      "⅓ xícara de queijo-de-minas curado ou tipo cheddar ralado, para acompanhar"
+    ],
+    "preparo": [
+      "Coloque a batata, a cenoura, a couve-flor, as ervilhas, a vagem e o caldo numa panela. Tempere bem com sal e pimenta-do-reino. Deixe levantar fervura e cozinhar lentamente, sem tampar a panela, por uns 10 minutos, ou até que os legumes estejam macios.",
+      "Retire a panela do fogo e coe o caldo para uma vasilha. Deixe os legumes reservados.",
+      "Derreta a manteiga ou margarina sobre fogo lento e polvilhe com a farinha de trigo. Mexa por 1 a 2 minutos ou até que doure ligeiramente. Retire do fogo e junte o caldo coado aos poucos, mexendo bem. leve ao fogo de novo e deixe cozinhar lentamente mexendo até que a mistura engrosse e fique lisa.",
+      "Numa vasilha pequena, bata a gema com o creme de leite e a páprica. Aos poucos, junte 4 colheres (sopa) de molho (do item 3) quente mexendo sempre. Depois despeje no molho restante e miture bem. Acrescente os legumes reservados e verifique os temperos. Aqueça mas sem deixar ferver. Caso a sopa esteja muito encorpada, junte mais caldo.",
+      "Sirva bem quente em pratos de sopa individuais aquecidos. Sirva o queijo em separado."
+    ]
+  },
+  {
+    "slug": "espaguete-com-cogumelos",
+    "titulo": "Espaguete com cogumelos",
+    "descricao": "O espaguete com cogumelos é uma receita clássica e aromática, perfeita para quem aprecia massas com molho encorpado e sabor marcante. Preparado com espaguete cozido no ponto ideal, ele é envolvido por um molho rico feito com tomates frescos, cebola, pimentão verde e cogumelos fatiados. O azeite e a manteiga garantem maciez e brilho ao preparo, enquanto o alho (opcional), o orégano, o manjericão seco e a folha de louro trazem um toque especial de ervas que intensificam o aroma e o sabor. Finalizado com queijo parmesão ralado, o prato ganha cremosidade e um leve toque salgado que equilibra perfeitamente os ingredientes. Rendendo 4 porções, é uma excelente opção para um almoço em família ou jantar prático, combinando simplicidade e sofisticação em uma massa saborosa e reconfortante.",
+    "imagem": "/src/assets/receitas/espaguete_com_cogumelos.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "500 g (1 pacote) de espaguete",
+      "2 colheres (sopa) de azeite",
+      "1 cebola média picada",
+      "1 dente de alho amassado (opcional)",
+      "1 pimentão verde sem sementes e picado",
+      "¾ xícara de cogumelos cortados em fatias",
+      "1 kg de tomate sem pele e sem sementes",
+      "sal e pimenta-do-reino a gosto",
+      "2 colheres (sopa) de manteiga",
+      "½ xícara de queijo parmesão ralado",
+      "1 colher (chá) de orégano",
+      "1 colher (chá) de manjericão seco",
+      "1 folha de louro esmigalhada"
+    ],
+    "preparo": [
+      "Aqueça o azeite numa panela, junte a cebola, o alho, se for usar, o pimentão verde e o cogumelo. Frite em fogo médio por uns 10 minutos, até que amoleçam, mexendo de vez em quando.",
+      "Adicione os tomates cortados em pedaços e deixe levantar fervura, mexendo. Abaixe o fogo, tempere com sal e pimenta-do-reino e deixe cozinhar lentamente por 20 minutos.",
+      "Enquanto isso, cozinhe o espaguete num panela grande com água fervente temperada com sal por uns 10 minutos a 12 minutos ou até que esteja cozido mas ainda firme ao morder.",
+      "Escorra o espaguete e coloque novamente na panela, passada em água fria. Junte a manteiga, a metade do queijo ralado, o orégano, o manjericão, o louro, sal e pimenta-do-reino a gosto. Misture rapidamente até que todo o espaguete esteja impregnado. Coloque numa travessa aquecida.",
+      "Verifique o tempero do molho de tomate e despeje imediatamente sobre o espaguete, misturando bem. Polvilhe com queijo ralado restante e sirva a seguir. Se desejar, sirva o molho em separado."
+    ]
+  },
+  {
+    "slug": "sanduíche-picante-de-tres-andares",
+    "titulo": "Sanduíche picante de três andares",
+    "descricao": "O sanduíche picante de três andares é uma opção robusta e cheia de personalidade, perfeita para quem gosta de sabores intensos e combinações marcantes. Preparado com camadas de pão preto e pão branco, ele cria um visual atrativo e uma textura diferenciada a cada mordida. O recheio combina frango cozido e picado com maionese temperada com curry, trazendo um toque levemente picante e aromático. O bacon acrescenta crocância e sabor defumado, enquanto as folhas de alface, o pepino e o tomate equilibram o conjunto com frescor e leveza. Com rendimento para 4 porções, é ideal para lanches reforçados, reuniões informais ou até como prato principal acompanhado de salada ou batatas. Uma receita prática, saborosa e com apresentação que impressiona.",
+    "imagem": "/src/assets/receitas/sanduiche_picante_de_tres_andares.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "30min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 xícara de carne de frango cozida e picada",
+      "4 fatias de bacon",
+      "2 colheres (chá) de caril (curry)",
+      "4 colheres (sopa) de maionese",
+      "8 fatias de pão preto",
+      "4 fatias de pão branco",
+      "3 ½ colheres (sopa) de manteiga em temperatura ambiente",
+      "4 folhas pequenas de alface",
+      "16 rodelas finas de pepino",
+      "2 tomates cortados em rodelas"
+    ],
+    "preparo": [
+      "Frite as fatias de bacon até que estejam crocantes e escorra. Mantenha quente. Numa vasilha, misture o caril, a maionese e o frango.",
+      "Com uma faca bem afiada retire a costa da fatias de pão. Corte as fatias para que todas tenham exatamente o mesmo tamanho. Passe manteiga dos dois lados do pão branco e de um lado do pão preto. Espalhe a mistura de frango por igual sobre 4 fatias de pão preto. Por cima, disponha as fatias de pão branco.",
+      "Coloque uma folha de alface e 4 rodelas de pepino sobre cada fatia de pão. Por cima, coloque as fatias de pão preto restantes.",
+      "Por fim, coloque rodelas de tomate e a fatia de bacon frito."
+    ]
+  },
+  {
+    "slug": "folhado-de-queijo",
+    "titulo": "Folhado de queijo",
+    "descricao": "O folhado de queijo é uma receita clássica, elegante e irresistivelmente cremosa. Preparado com massa folhada leve e crocante, ele envolve um recheio rico à base de queijo gouda ou gruyère, combinado com creme de leite, ovos e manteiga, resultando em uma textura macia e sabor marcante. Temperado com noz-moscada, pimenta-do-reino e um toque de molho de pimenta vermelha, o recheio ganha profundidade e leve picância, equilibrando perfeitamente a suavidade do queijo. A páprica polvilhada por cima e o ovo batido para pincelar garantem um acabamento dourado e apetitoso após ir ao forno. Rendendo 4 porções, é uma excelente opção para servir como entrada, acompanhamento ou prato principal leve, acompanhado de salada verde. Uma combinação sofisticada de crocância e cremosidade que agrada em qualquer ocasião.",
+    "imagem": "/src/assets/receitas/folhado_de_queijo.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "70min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "¾ xícara de queijo gouda ou gruyère ralado grosso",
+      "400 g de massa folhada descongelada",
+      "⅓ xícara de farinha de trigo",
+      "⅔ xícara de leite",
+      "1 ½ colher (sopa) de manteiga ou margarina cortada em pedaços",
+      "2 ovos grandes batidos",
+      "3 colheres (sopa) de creme de leite",
+      "molho de pimenta vermelha",
+      "noz-moscada ralada a gosto",
+      "sal e pimenta-do-reino",
+      "ovo batido para pincelar",
+      "páprica a gosto"
+    ],
+    "preparo": [
+      "Preaqueça o forno a 230ºC.",
+      "Coloque a farinha numa panela e adicione um pouco de leite, o suficiente para formar uma pasta. Adicione lentamente o leite restante, misturando até alisar, e depois a manteiga.",
+      "Coloque a panela sobre fogo médio e bata até quase ferver (o molho pode parecer empelotado). Retire a panela do fogo e bata até o molho ficar liso.",
+      "Adicione lentamente os ovos, sem parar de bater, e leve novamente ao fogo. Mexa até ferver. Cozinhe até que o molho esteja bem grosso.",
+      "Retire do fogo e deixe esfriar ligeiramente. Adicione o queijo e o creme de leite grosso com umas gotas de molho de pimenta e a noz-moscada. Tempere a gosto com sal e pimenta-do-reino e miture bem. Cubra o molho de queijo com filme plástico para evitar que forme uma película. Deixe esfriar.",
+      "Abra a metade da massa sobre uma superfície polvilhada com farinha de trigo até obter um retângulo de 30 cm x 18 cm e 2mm de espessura. Recorte as bordas para que fiquem bem retas e coloque a massa sobre uma assadeira molhada.",
+      "Espalhe o molho de queijo sobre a massa, deixando 3 cm livres em toda a volta. Vire as bordas livres para dentro para cobrir parcialmente o molho. Abra a massa restante do mesmo tamanho da primeira e recorte as bordas para que fiquem bem retas. Pincele em volta com água ou ovo batido e coloque sobre o primeiro retângulo, apertando bem as bordas para fechar. Faça depressões em volta com as costas de uma faca, formando um acabamento canelado.",
+      "Pincele a massa com mais ovo batido e corte a superfície, a cada 2 cm, com uma faca afiada.",
+      "Asse no forno durante 20 minutos. Cubra o folhado de queijo com papel de alumínio ou papel-manteiga, para evitar que doure demais, e diminua o fogo para 200ºC. Asse por mais 20 minutos.",
+      "Coloque o folhado sobre uma grade, polvilhe levemente com a páprica e deixe esfriar durante 5 minutos antes de servir."
+    ]
+  },
+  {
+    "slug": "espetinhos-de-linguiça",
+    "titulo": "Espetinhos de lingüiça",
+    "descricao": "Os espetinhos de linguiça são uma opção prática e saborosa, perfeita para reunir amigos em um almoço descontraído ou churrasco especial. Preparados com linguiças de porco cortadas em pedaços, intercaladas com bacon, pimentão verde, cebolas pequenas e tomates, eles combinam suculência, leve defumado e frescor dos legumes. A manteiga amolecida misturada com mostarda e um toque de molho inglês acrescenta brilho e sabor extra aos espetinhos, realçando o tempero da carne e criando uma camada aromática durante o preparo. Com rendimento para 4 porções, essa receita é versátil e pode ser feita na grelha, churrasqueira ou forno, resultando em espetinhos dourados por fora e macios por dentro. Uma combinação clássica, colorida e cheia de sabor, ideal para ocasiões informais.",
+    "imagem": "/src/assets/receitas/espetinhos_de_linguiça.png",
+    "categoria": "Receitas-Rápidas",
+    "tempoPreparo": "32min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "8 lingüiças de carne de porco",
+      "8 fatias de bacon",
+      "1 pimentão verde pequeno, cortado em pedaços de 2 cm e escaladado durante 1 minuto",
+      "8 cebolas pequenas",
+      "4 tomates pequenos cortados ao meio",
+      "3 ½ colheres (sopa) de manteiga ou margarina amolecida",
+      "1 colher (sopa) de mostarda",
+      "uma pitada de molho inglês"
+    ],
+    "preparo": [
+      "Torça cada lingüiça em dois lugares e corte-as em 3, para obter 24 pedaços pequenos.",
+      "Divida as lingüiças, o bacon e os legumes em 4 porções iguais. Unte 4 esptetos com óleo ou com banha e espete os ingredientes. Comece com uma metade de tomate, depois uma fatia de bacon e alterne os outros ingredientes, passando o bacon em volta de cada pedaço. Termina cada espeto com a outra metade do tomate.",
+      "Preaqueça a grelha. Bata a manteiga com a mostarda e o molho inglês e pincele os espetos.",
+      "Grelhe os espetinhos por aproximadamente 7 minutos, até cozinhar as lingüiças, virando-os de vez em quando e regando-os com o líquido do cozimento.",
+      "Sirva os espetinhos imediatamente, regados com o próprio líquido do cozimento."
+    ]
+  },
+  {
+    "slug": "caril-de-legumes",
+    "titulo": "Caril de legumes",
+    "descricao": "Uma combinação cremosa e aromática de legumes frescos envolvidos em um delicado molho de curry. Nesta receita, a couve-flor, as cenouras e a vagem são cozidas até atingirem o ponto ideal e depois recebem um molho preparado com manteiga, farinha de trigo, leite, curry em pó e gengibre ralado, criando um sabor levemente picante e muito equilibrado. O toque especial fica por conta do suco de laranja, que acrescenta uma nota cítrica suave, enquanto o creme de leite garante uma textura aveludada. Para finalizar, amêndoas crocantes e hortelã ou salsinha picada trazem frescor e um contraste de sabores que tornam o prato ainda mais sofisticado. Ideal como acompanhamento ou prato principal para quem busca uma refeição vegetariana rica em sabor, o caril de legumes é uma opção nutritiva, colorida e perfeita para servir em qualquer ocasião. ",
+    "imagem": "/src/assets/receitas/caril_de_legumes.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "35min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "1 couve-flor pequena dividida em raminhos",
+      "250g de  cenouras pequenas, raspadas e cortadas em rodelas grossas",
+      "250g de vagem cortada em pedaços",
+      "sal"
+    ],
+    "preparo": [
+      "Corte e cozinhe os legumes em água fervente com sal até ficarem macios - não mais que 10 minutos, para que não se desmanchem. Escorra e reserve o caldo. Coloque numa travessa aquecida e mantenha quente.",
+      "Faça o molho da seguinte maneira: derreta a manteiga numa panela, junte a farinha e mexa até formar uma pasta. Junte o caril e o gengibre e mexa sobre o fogo moderado durante 3 minutos.",
+      "Sem parar de mexer, junte lentamente o leite, o suco de laranja e 2 xícaras do caldo reservado. Deixe ferver, tampe a panela e cozinhe por 3 minutos. Prove o molho e, se necessário, corrija o tempero com sal e pimenta. Retire a panela do fogo e junte o creme de leite.",
+      "Despeje o molho sobre os legumes, misturando levemente com garfo. Polvilhe com amêndoa e a hortelã o a salsinha sobre os legumes e sirva imediatamente."
+    ],
+    "molho": [
+      "1 ½ colher (sopa) de manteiga",
+      "1 ½ colher (sopa) de farinha de trigo",
+      "1 colher (sopa) de caril (curry) em pó",
+      "1 colher (chá) de gengibre ralada",
+      "2 xícaras de leite",
+      "2 colheres (sopa) de suco de laranja",
+      "pimenta do reino",
+      "2 colheres (sopa) de creme de leite",
+      "1 colher (sopa) de amêndoas escaldadas, descascadas e cortadas em metades",
+      "1 colher (sopa) de hortelã ou salsinha picada"
+    ]
+  },
+  {
+    "slug": "rosti",
+    "titulo": "Rösti",
+    "descricao": "O rösti é um clássico da culinária suíça que conquista pelo contraste entre a casquinha dourada e crocante por fora e o interior macio e saboroso. Nesta versão simples e tradicional, batatas cozidas e raladas são combinadas com cebola, sal e pimenta-do-reino, formando uma mistura que é frita na manteiga até atingir uma textura irresistível. Durante o preparo, o disco de batata é cuidadosamente dourado dos dois lados, criando uma superfície crocante que envolve um recheio delicado e cheio de sabor. A manteiga confere um aroma especial e ajuda a realçar a suavidade dos ingredientes, tornando o prato ainda mais apetitoso. Perfeito como acompanhamento ou até mesmo como prato principal, o rösti pode ser servido com carnes, saladas ou ovos, além de aceitar diversas variações de recheios e coberturas. É uma receita prática, versátil e elegante, ideal para qualquer refeição do dia.",
+    "imagem": "/src/assets/receitas/rosti.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "1h e 10min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "½ kg de batata, cozida inteira, esfriada e descascada",
+      "1 cebola grande",
+      "sal e pimenta-do-reino",
+      "4 colheres (sopa) de manteiga"
+    ],
+    "preparo": [
+      "Rale as batatas e a cebola na parte grossa do ralador e misture com bastante sal e pimenta.",
+      "Derreta metade da manteiga numa frigideira e junte a mistura de batata. Achate a mistura com uma colher de pau ou uma espátula e cozinhe sobre fogo moderado por aproximadamente 5 minutos ou até a mistura se transformar numa espécie de omelete.",
+      "Coloque um prato sobre a frigideira e vire de forma que o rösti fique no prato. Raspe a frigideira e derreta o restante  da manteiga.",
+      "Frite o outro lado do rösti por aproximadamente 5 minutos ou até ficar dourado. Coloque sobre uma travessa aquecida e sirva."
+    ]
+  },
+  {
+    "slug": "salada-gazpacho",
+    "titulo": "Salada gazpacho",
+    "descricao": "Leve, colorida e extremamente refrescante, a Salada Gazpacho é inspirada na tradicional sopa fria espanhola, trazendo uma combinação harmoniosa de tomates maduros, pepino, cebola e pimentões cortados em fatias finas. O resultado é um prato cheio de frescor, ideal para os dias quentes ou como acompanhamento de diversas refeições. Os vegetais são organizados em camadas e temperados com um saboroso molho francês, que realça os ingredientes sem esconder seu sabor natural. As migalhas de pão adicionam uma textura especial à receita, enquanto o período de descanso na geladeira permite que todos os sabores se misturem e fiquem ainda mais intensos. Finalizada com azeitonas pretas e salsinha picada, esta salada é uma opção nutritiva, elegante e fácil de preparar. Perfeita para acompanhar carnes grelhadas, churrascos ou sanduíches, ela oferece um equilíbrio entre crocância, suculência e um tempero delicadamente aromático.",
+    "imagem": "/src/assets/receitas/salada_gazpacho.png",
+    "categoria": "Saladas",
+    "tempoPreparo": "20min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "400 g de tomates, sem pele e sem sementes, em rodelas finas",
+      "½ pepino grande, descascado e cortado em fatias finas",
+      "1 cebola média, cortada em fatias finas",
+      "1 pimentão vermelho médio, sem sementes e em rodelas finas",
+      "1 pimentão verde médio, sem sementes e em rodelas finas",
+      "sal, pimenta-do-reino e açúcar",
+      "10 colheres (sopa) de migalhas de pão",
+      "8 colheres (sopa) de molho francês",
+      "10 azeitonas pretas",
+      "1 colher (sopa) de salsinha picada"
+    ],
+    "preparo": [
+      "Prepare os tomates, o pepino, a cebola e os pimentões. Escalde os pimentões em água fervente por 30 segundos e mergulhe-os imediatamente em água fria.",
+      "Numa saladeira, coloque uma camada de pepino, uma de tomate polvilhado com açucar, uma de cebola e um de pimentão verde e vermelho. Tempere com sal e pimenta e polvilhe com duas colheres (sopa) de migalhas e duas de molho francês.",
+      "Continue a distribuir os legumes em camadas, terminando com uma camada de 4 colheres de migalhas. Molhe as migalhas com molho francês e cubra a saladeira com papel de alumínio. Deixe na geladeira por 2 a 3 horas antes de servir."
+    ]
+  },
+  {
+    "slug": "batatas-com-paprica",
+    "titulo": "Batatas com páprica",
+    "descricao": "As Batatas com Páprica são uma receita simples e cheia de sabor, perfeita para quem aprecia acompanhamentos cremosos e bem temperados. As batatas são previamente cozidas até ficarem levemente macias e, em seguida, preparadas lentamente com cebola dourada, páprica doce, tomate e caldo de galinha, absorvendo todos os aromas e criando uma combinação irresistível. Durante o cozimento, os ingredientes se unem para formar um molho delicado e rico em sabor, enquanto a páprica confere uma coloração vibrante e um toque levemente adocicado. A alcaravia, opcional na receita, acrescenta um aroma característico que harmoniza muito bem com os demais ingredientes. Para finalizar, o creme de leite azedo é incorporado, deixando o prato ainda mais cremoso e equilibrando o tempero das especiarias. Servidas bem quentes e polvilhadas com um pouco mais de páprica doce, essas batatas são um excelente acompanhamento para carnes assadas, grelhadas ou aves, além de serem uma opção reconfortante para qualquer ocasião.",
+    "imagem": "/src/assets/receitas/batatas_com_paprica.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "45min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "800 g de batata descascada",
+      "sal",
+      "2 colheres (sopa) de óleo",
+      "1 cebola média cortada em rodelas",
+      "1 colher (chá) de páprica doce",
+      "1 ½ xícara de caldo de galinha",
+      "½ colher (chá) de alcaravia (kümmel) (opcional)",
+      "1 tomate grande, sem pele e picado",
+      "pimenta-do-reino",
+      "3 colheres (sopa) de creme de leite azedo",
+      "páprica doce para decorar"
+    ],
+    "preparo": [
+      "Cozinhe as batatas em água com sal até começarem a ficar macias, aproximadamente 7 minutos. Escorra e corte em rodelas de 5 cm.",
+      "Esquente o óleo numa frigideira grande e funda e frite a cebola, em fogo médio, durante 4 minutos, ou até começar a dourar. Junte a páprica, o caldo, a alcaravia, o tomate e a pimenta. Misture bem e adicione as batatas, misturando delicadamente.",
+      "Deixe ferver lentamente, tampe a frigideira, diminua o fogo e cozinhe por mais 20 a 25 minutos. As batatas deverão ter absorvido quase todo o líquido.",
+      "Despeje o creme de leite por cima e deixe esquentar. Coloque as batatas numa travessa aquecida e polvilhe com a páprica."
+    ]
+  },
+  {
+    "slug": "salada-de-abacate-com-laranja",
+    "titulo": "Salada de abacate com laranja",
+    "descricao": "Uma combinação leve, refrescante e cheia de sabor, a salada de abacate com laranja reúne ingredientes frescos que equilibram o doce natural das frutas com o toque suave do molho à base de mel, vinagre de maçã e azeite de oliva. A alface adiciona crocância, enquanto as maçãs trazem ainda mais frescor e textura ao prato. Ideal como entrada ou acompanhamento de refeições leves, essa receita fica pronta em cerca de 15 minutos e oferece uma apresentação colorida e elegante. O segredo para o melhor resultado é preparar o abacate pouco antes de servir, preservando sua cor e cremosidade. Nutritiva e versátil, é uma excelente opção para dias quentes ou para quem busca uma alimentação equilibrada e saborosa.",
+    "imagem": "/src/assets/receitas/salada_de_abacate_com_laranja.png",
+    "categoria": "Saladas",
+    "tempoPreparo": "15min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "2 abacates pequenos",
+      "2 laranjas grandes",
+      "2 maçãs",
+      "1 pé de alface pequeno"
+    ],
+    "preparo": [
+      "Para fazer o molho: misture o mel, o vinagre e o azeite de oliva. Bata com um garfo até ficar espesso e todos os ingredientes bem misturados. Tempere a gosto.",
+      "Descasque as laranjas. Firme a fruta sobre uma vasilha, para aproveitar o suco, e apare a parte branca com uma faca afiada. Separe os gomos e retire as sementes. Misture os gomos com o molho.",
+      "Corte os abacates ao meio, retire os caroços, mas sem tirar as cascas, e corte em fatias. Descasque as fatias de abacate e misture imediatamente com o molho.",
+      "Corte as maçãs em quatro e retire as sementes. Corte cada pedaço em fatias e misture bem ao molho. Prove o tempero. Arrume as folhas de alface numa saladeira, coloque a salada de frutas com o molho por cima e sirva imediatamente."
+    ],
+    "molho": [
+      "1 colher (sopa) de mel",
+      "2 colheres (sopa) de vinagre de maçã",
+      "6 colheres (sopa) de azeite de oliva",
+      "sal e pimenta-do-reino"
+    ]
+  },
+  {
+    "slug": "abobrinhas-crocantes",
+    "titulo": "Abrobinhas crocantes",
+    "descricao": "Uma receita saborosa e reconfortante, as abobrinhas crocantes combinam a leveza da abobrinha com camadas de tomate, queijo e orégano, formando um prato gratinado irresistível. Finalizada com uma cobertura de pão, nozes, leite e ovo, ganha uma textura dourada e crocante por fora, enquanto permanece macia e suculenta por dentro. Perfeita como acompanhamento ou prato principal em uma refeição leve, essa receita une ingredientes simples em uma combinação rica em sabor e aroma. Assada até atingir uma cobertura firme e levemente tostada, é uma excelente opção para quem deseja incluir mais legumes no cardápio sem abrir mão de uma apresentação elegante e de um resultado cheio de personalidade.",
+    "imagem": "/src/assets/receitas/abobrinhas_crocantes.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "50min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "800 g de abobrinha cortada em rodelas",
+      "1 ½ colher (sopa) de manteiga",
+      "sal e pimenta-do-reino",
+      "250 g de queijo prato ralado",
+      "250 g de tomate, sem pele e cortado em fatias finas",
+      "1 colher (chá) de orégano",
+      "1 ovo",
+      "¾ xícara de leite",
+      "½ xícara de migalhas de pão frescas",
+      "⅓ xícara de nozes, picadas em pedaços grandes"
+    ],
+    "preparo": [
+      "Derreta a manteiga numa frigideira e frite a abobrinha em fogo médio, por 10 minutos mais ou menos, ou até ficar quase macia, virando uma vez. Retire a frigideira do fogo e tempere com sal e pimenta.",
+      "Esquente o forno a 200ºC.",
+      "Arrume metade da abobrinha numa fôrma refratária, formando uma camada. Polvilhe com ¼ do queijo e cubra com metade do tomate e metade do orégano. Polvilhe novamente com ¼ do queijo e cubra com o restante da abobrinha, do tomate e do orégano. Polvilhe com ¼ do queijo.",
+      "Bata o ovo com leite e misture as migalhas, as nozes e o restante do queijo. Espalhe esta mistura sobre os legumes e alise a superfície.",
+      "Coloque a fôrma numa assadeira e asse de 25 a 30 minutos, até que a cobertura esteja firme e crocante. Sirva quente, direto da fôrma."
+    ]
+  },
+  {
+    "slug": "repolho-gratinado",
+    "titulo": "Repolho gratinado",
+    "descricao": "O repolho gratinado é um prato clássico que transforma um ingrediente simples em uma refeição extremamente saborosa e sofisticada. O repolho é cozido apenas até ficar macio, preservando parte de sua textura, e depois é envolvido por um molho branco cremoso preparado com manteiga, farinha, leite e creme de leite. O molho é temperado com sal, pimenta-do-reino, molho de pimenta e noz-moscada, criando um sabor intenso e aromático. Após ser colocado em uma travessa, o prato recebe uma cobertura de queijo ralado e migalhas de pão misturadas com manteiga, formando uma camada dourada e crocante durante o gratinado. O contraste entre a crosta crocante e o interior cremoso faz desta receita uma excelente opção para acompanhar carnes grelhadas, assadas ou aves. É um prato reconfortante, com aroma irresistível e sabor marcante, capaz de agradar até mesmo quem normalmente não aprecia repolho.",
+    "imagem": "/src/assets/receitas/repolho_gratinado.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "45min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "1 repolho verde de mais ou menos 500g, picado grosso",
+      "1 ½ colher (sopa) de manteiga",
+      "3 colheres (sopa) de farinha de trigo",
+      "¾ xícara de leite",
+      "1 colher (chá) de sal",
+      "1 pitada de pimenta-do-reino branca\r\n¾ xícara de creme de leite",
+      "gotas de molho de pimenta",
+      "½ colher (chá) de noz-moscada ralada",
+      "3 colheres (sopa) de migalhas de pão frescas",
+      "2 colheres (sopa) de queijo ralado que derreta bem (por exemplo, tipo cheddar)",
+      "mais 1 colher (sopa) de manteiga"
+    ],
+    "preparo": [
+      "Esquente o forno a 200°C.",
+      "Cozinher o repolho em água fervente com sal até ficar macio. Escorra bem.",
+      "Faça um molho grosso com a manteiga, a farinha, o leite e o creme de leite. Adicione o sal, as pimentas e a noz-moscada e prove o tempero. O molho deve ter um sabor forte.",
+      "Misture bem o repolho com o molho e despeje numa fôrma refratária untada.",
+      "Misture as migalhas e o queijo e polvilhe sobre o repolho. Cubra com pedacinhos de manteiga.",
+      "Asse por 15 minutos. Aumente o fogo do forno até 220°C e asse mais 10 minutos até derreter o queijo."
+    ]
+  },
+  {
+    "slug": "aneis-de-cebola",
+    "titulo": "Anéis de cebola",
+    "descricao": "Os anéis de cebola são um dos petiscos mais conhecidos e apreciados no mundo. Nesta receita, cebolas frescas são cortadas em rodelas grossas para formar anéis perfeitos, que são mergulhados em uma massa preparada com farinha, leite, ovo, bicarbonato e fermento, resultando em uma cobertura leve e aerada. Depois de fritos em óleo bem quente, os anéis adquirem uma coloração dourada intensa e uma textura extremamente crocante por fora, enquanto a cebola permanece macia, suculenta e naturalmente adocicada por dentro. O resultado é um petisco com excelente contraste de texturas e um sabor equilibrado. Servidos ainda quentes, podem acompanhar molhos como maionese temperada, barbecue, mostarda ou molho de alho, além de serem um excelente complemento para hambúrgueres, carnes grelhadas e lanches.",
+    "imagem": "/src/assets/receitas/aneis_de_cebola.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "25min",
+    "rendimento": "4 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "4 cebolas médias",
+      "⅓ xícara de farinha de trigo",
+      "¼ colher (chá) de bicarbonato de sódio",
+      "1 pitada grande de cremor de tártaro ou fermento em pó",
+      "1 pitada grande de sal",
+      "1 ovo",
+      "3 colheres (sopa) de leite",
+      "1 colher (chá) de manteiga derretida",
+      "óleo para fritar"
+    ],
+    "preparo": [
+      "Faça primeiro a massa: peneire juntos a farinha, o bicarbonato, o cremor de tártaro e o sal. Bata o ovo com o leite e adicione a manteiga derretida. Junte a mistura de farinha e bata bem até ficar lisa e brilhante. Deixe a massa descansar enquanto prepara as cebolas.",
+      "Descasque as cebolas e corte em rodelas finas. Separe as rodelas para formar anéis.",
+      "Esquente o óleo numa panela funda até 200°C. Se você não tiver termômetro de cozinha, teste a temperatura do óleo colocando um cubo pequeno de pão amanhecido. O óleo estará no ponto quando o pão ficar dourado em 50 segundos.",
+      "Pegue vários anéis de cebola com garfo grande, mergulhe-os na massa e escorra o excesso. Coloque os anéis no óleo quente e frite por 3 a 4 minutos até dourarem e crescerem. Retire com uma escumadeira. Depois, coloque sobre uma travessa aquecida, cubra com papel de alumínio e mantenha quente enquanto frita o restante."
+    ]
+  },
+  {
+    "slug": "pure-colorido",
+    "titulo": "Purê colorido",
+    "descricao": "O purê colorido é uma receita nutritiva, cremosa e cheia de sabor, preparada com uma combinação de inhame ou cará, batata-doce e cenoura. Cada ingrediente contribui para a textura e o sabor do prato: o inhame oferece cremosidade, a batata-doce acrescenta um toque adocicado e a cenoura proporciona uma bela coloração alaranjada, além de um sabor delicado. Depois de cozidos, os legumes são amassados e misturados com manteiga e leite até atingir uma consistência lisa e macia. O tempero com sal e pimenta-do-reino realça os sabores naturais dos vegetais sem mascará-los. O resultado é um purê leve, nutritivo e muito versátil, ideal para acompanhar carnes, aves, peixes ou até mesmo servir como prato principal em refeições mais leves. Além do sabor agradável, destaca-se pela aparência vibrante, tornando qualquer refeição mais bonita e apetitosa.",
+    "imagem": "/src/assets/receitas/pure_colorido.png",
+    "categoria": "Purês e Cremes",
+    "tempoPreparo": "40min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "400 g de cará ou inhame",
+      "250 g de batata-doce",
+      "250 g de cenoura",
+      "1 ½ colher (sopa) de manteiga ou margarina",
+      "2 a 3 colheres (sopa) de leite",
+      "sal e pimenta-do-reino"
+    ],
+    "preparo": [
+      "Descasque os carás ou os inhames e corte em pedaços.",
+      "Descasque as batatas-doces e corte em pedaços de 2cm.",
+      "Raspe as cenouras e corte em rodelas grossas.",
+      "Cozinhe todos os legumes juntos em água fervente com sal até ficarem macios.",
+      "Derreta a manteiga ou margarina numa panela e adicione o leite. Junte o cará, a batata-doce e a cenoura, e amasse muito bem.",
+      "Tempere com bastante pimenta-do-reino e misture bem. Sirva o purê quente."
+    ]
+  },
+  {
+    "slug": "salada-de-pera-e-beterraba",
+    "titulo": "Salada de pêra e beterraba",
+    "descricao": "Esta salada combina ingredientes frescos e sofisticados para criar um prato equilibrado, refrescante e cheio de personalidade. A doçura natural das peras maduras harmoniza perfeitamente com o sabor terroso da beterraba cozida, enquanto o agrião acrescenta um toque levemente picante e a erva-doce oferece aroma fresco e delicado. Todos os ingredientes são envolvidos por um molho preparado com iogurte natural, suco e raspas de limão, azeite de oliva, mel e vinagre de vinho, formando um creme suave que equilibra perfeitamente os sabores doces, ácidos e salgados. Servida bem gelada, a salada apresenta uma textura cremosa, porém leve, sendo ideal como entrada em almoços especiais, acompanhamento para carnes frias ou parte de um bufê. Sua combinação de cores vibrantes também faz dela uma opção elegante para ocasiões festivas.",
+    "imagem": "/src/assets/receitas/salada_de_pera_e_beterraba.png",
+    "categoria": "Saladas",
+    "tempoPreparo": "30min",
+    "rendimento": "4 porções",
+    "nivel": "Fácil",
+    "ingredientes": [
+      "1 beterraba média cozida, descascadas e cortada em cubinhos de 1 cm",
+      "2 peras médias",
+      "½ erva-doce média, limpa e picada",
+      "4 xícaras de folhas de agrião, sem os talos"
+    ],
+    "preparo": [
+      "Primeiro, faça o molho: misture as raspas e o suco de limão com o iogurte, o óleo, o mel e o vinagre, numa vasilha. Tempere com sal e pimenta e misture bem.",
+      "Descasque as peras, corte ao meio e retire as sementes. Corte em cubinhos e adicione ao molho, junte com a erva-doce e a beterraba.",
+      "Misture tudo delicadamente até que os legumes estejam bem cobertos de molho.",
+      "Cubra a salada com plástico próprio para embalar e leve à geladeira até a hora de servir. Quando for servir, rasgue as folhas de agrião e misture delicadamente à salada. Coloque a salada numa saladeira e sirva imediatamente."
+    ],
+    "molho": [
+      "½ colher (sopa) de suco de limão",
+      "½ colher (chá) de raspas de casca de limão",
+      "1 xícara de iogurte natural",
+      "2 colheres (sopa) de azeite",
+      "½ colher (sopa) de mel",
+      "1 colher (chá) de vinagre de vinho",
+      "sal e pimenta-do-reino"
+    ]
+  },
+  {
+    "slug": "repolho-com-molho-de-raiz-forte",
+    "titulo": "Repolho com molho de raiz-forte",
+    "descricao": "O repolho com molho de raiz-forte é uma receita inspirada na culinária europeia, especialmente alemã, conhecida por seus sabores marcantes. O repolho branco é cozido rapidamente para permanecer levemente crocante, preservando sua textura e seu sabor delicado. O destaque da receita é o molho branco preparado com manteiga, farinha e leite, enriquecido com pasta de raiz-forte, noz-moscada e pimenta-do-reino. A raiz-forte acrescenta um sabor levemente picante e aromático, que contrasta perfeitamente com a suavidade do repolho. Depois de misturados, o molho envolve completamente as folhas, criando um prato cremoso e muito saboroso. Finalizado com salsa picada, torna-se um excelente acompanhamento para carnes assadas, bifes, vitela e pratos típicos da culinária alemã.",
+    "imagem": "/src/assets/receitas/repolho_com_molho_de_raiz_forte.png",
+    "categoria": "Legumes-e-Verduras",
+    "tempoPreparo": "20min",
+    "rendimento": "4 a 6 porções",
+    "nivel": "Médio",
+    "ingredientes": [
+      "800 g de repolho branco",
+      "sal"
+    ],
+    "preparo": [
+      "Corte o repolho em quatro. Retire as folhas duras e o talo. Pique ou rasgue as outras folhas bem miúdo.",
+      "Prepare uma panela com água fervente e sal. Coloque o repolho na panela, aumente o fogo e deixe ferver durante 5 a 8 minutos.",
+      "Enquanto isso, faça o molho: derreta a manteiga numa panela pequena, polvilhe com a farinha e leve ao fogo baixo, misturando durante 2 minutos até dourar. Retire do fogo e adicione o leite, aos poucos, mexendo sempre. Leve novamente ao fogo baixo e misture até engrossar e ficar uniforme. Adicione a pasta de raiz-forte e a noz-moscada e tempere a gosto com sal e pimenta.",
+      "Escorra bem o repolho e misture com o molho. Coloque de novo na panela onde cozinhou o repolho e esquente lentamente.",
+      "Coloque numa travessa aquecida e polvilhe com a salsinha picada. Sirva imediatamente."
+    ],
+    "molho": [
+      "2 colheres (sopa) de manteiga",
+      "3 colheres (sopa) de farinha de trigo",
+      "1 ¼ xícara de leite",
+      "2 colheres (sopa) de passa de raiz-forte",
+      "uma pitada de noz-moscada ralada",
+      "pimenta-do-reino",
+      "salsinha picada para decorar"
+    ]
+  }
+]
