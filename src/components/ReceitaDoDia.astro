@@ -1,5 +1,40 @@
-<section>
-  <article>
-    
+---
+import Receitas from '../data/receitas.json';
+import { Clock, TrendingUp, ListSortDescending, ChevronRight } from 'lucide-react';
+
+const receitaDia = Receitas.slice(-1);
+---
+<section class="w-full flex justify-center p-10 bg-gray-100">
+  <article class="w-350 h-auto">
+    {receitaDia.map(({titulo, ingredientes, slug, imagem, descricao, categoria, tempoPreparo, nivel})=>(
+    <div class="outline-1 outline-gray-200 shadow-sm rounded-xl">
+      <div class="relative z-0 p-2">
+        <img src={imagem} alt={titulo} class="w-full h-150 rounded-xl"/>
+        <div class="w-120 absolute top-0 bottom-0 left-0 z-10 bg-black/70 backdrop-blur-xl text-white p-5 m-2 rounded-l-xl">
+          <h1 class="font-bold text-xl mb-10">Receita do dia</h1>
+          <h2 class="font-bold text-xl mb-3">{titulo}</h2>
+          <p class="line-clamp-3 text-sm font-serif mb-3">{descricao}</p>
+          <div class="flex gap-5 text-sm font-serif text-gray-50 mb-5">
+            <div class="flex gap-1">
+              <Clock className="size-5"/><b>{tempoPreparo}</b>
+            </div> 
+            <div class="flex gap-1">
+              <TrendingUp className="size-5"/><b>{nivel}</b>
+            </div>
+            <div class="flex gap-1">
+              <ListSortDescending className="size-5"/><b>{categoria}</b>
+            </div>
+          </div>
+          <h3 class="font-bold text-base mb-3">Ingredientes:</h3>
+          <div class="pl-5 mb-10">
+            {ingredientes.map(i => <li class="text-sm">{i}</li>)}
+          </div>
+          <div>
+            <b class="font-serif italic text-sm"><a href={slug} class="flex items-center">Ver receita completa<ChevronRight/></a></b>
+          </div>
+        </div>
+      </div>
+    </div>
+    ))}
   </article>
 </section>
