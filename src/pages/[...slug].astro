@@ -1,18 +1,43 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import HeroImageReceita from '../components/receitas/HeroImageReceitas.astro';
 import Receitas from '../data/receitas.json';
 
 export function getStaticPaths(){
-return Receitas.map(({slug, titulo}) =>{
+return Receitas.map(({slug, titulo, imagem, descricao, tempoPreparo, nivel, categoria, rendimento}) =>{
 return{
 params: {slug},
-props: {titulo}
+props: {
+titulo, 
+imagem,
+descricao,
+tempoPreparo,
+nivel,
+categoria,
+rendimento,
+}
 }
 })
 }
 
-const {titulo} = Astro.props;
+const {
+titulo, 
+imagem, 
+descricao, 
+tempoPreparo,
+nivel,
+categoria,
+rendimento
+} = Astro.props;
 ---
 <Layout title={titulo}>
-  <h1>{titulo}</h1>
+  <HeroImageReceita 
+    imagem={imagem} 
+    titulo={titulo} 
+    descricao={descricao} 
+    tempoPreparo={tempoPreparo}
+    nivel={nivel}
+    categoria={categoria}
+    rendimento={rendimento}
+  />
 </Layout>
