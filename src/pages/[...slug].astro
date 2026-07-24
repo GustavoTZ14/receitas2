@@ -1,0 +1,18 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Receitas from '../data/receitas.json';
+
+export function getStaticPaths(){
+return Receitas.map(({slug, titulo}) =>{
+return{
+params: {slug},
+props: {titulo}
+}
+})
+}
+
+const {titulo} = Astro.props;
+---
+<Layout title={titulo}>
+  <h1>{titulo}</h1>
+</Layout>

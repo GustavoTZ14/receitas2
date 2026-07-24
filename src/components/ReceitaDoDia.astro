@@ -4,17 +4,16 @@ import { Clock, TrendingUp, ListSortDescending, ChevronRight } from 'lucide-reac
 
 const receitaDia = Receitas.slice(-1);
 ---
-<section class="w-full flex justify-center p-10 bg-gray-100">
+<section class="w-full flex justify-center p-10">
   <article class="w-350 h-auto">
     {receitaDia.map(({titulo, ingredientes, slug, imagem, descricao, categoria, tempoPreparo, nivel})=>(
     <div class="outline-1 outline-gray-200 shadow-sm rounded-xl">
-      <div class="relative z-0 p-2">
-        <img src={imagem} alt={titulo} class="w-full h-150 rounded-xl"/>
-        <div class="w-120 absolute top-0 bottom-0 left-0 z-10 bg-black/70 backdrop-blur-xl text-white p-5 m-2 rounded-l-xl">
-          <h1 class="font-bold text-xl mb-10">Receita do dia</h1>
-          <h2 class="font-bold text-xl mb-3">{titulo}</h2>
-          <p class="line-clamp-3 text-sm font-serif mb-3">{descricao}</p>
-          <div class="flex gap-5 text-sm font-serif text-gray-50 mb-5">
+      <div class="flex p-2">
+        <img src={imagem} alt={titulo} title={titulo} class="w-full h-150 rounded-xl"/>
+        <div class="w-140 pl-4">
+          <h2 class="font-bold font-serif italic text-xl mb-3 text-[#fb4524]" title={titulo}>{titulo}</h2>
+          <p class="line-clamp-4 text-sm font-serif mb-3 w-80">{descricao}</p>
+          <div class="flex gap-5 text-sm font-serif mb-5 text-gray-500">
             <div class="flex gap-1">
               <Clock className="size-5"/><b>{tempoPreparo}</b>
             </div> 
@@ -25,12 +24,12 @@ const receitaDia = Receitas.slice(-1);
               <ListSortDescending className="size-5"/><b>{categoria}</b>
             </div>
           </div>
-          <h3 class="font-bold text-base mb-3">Ingredientes:</h3>
+          <h3 class="font-bold text-base mb-3 text-gray-700">Ingredientes:</h3>
           <div class="pl-5 mb-10">
-            {ingredientes.map(i => <li class="text-sm">{i}</li>)}
+            {ingredientes.map(i => <li class="text-sm text-gray-500">{i}</li>)}
           </div>
           <div>
-            <b class="font-serif italic text-sm"><a href={slug} class="flex items-center">Ver receita completa<ChevronRight/></a></b>
+            <a href={slug} class="font-serif text-xs italic"><b class="flex items-center gap-1 hover:bg-[#fb4524] hover:text-white w-50 justify-center p-1 rounded-xl">Ver receita completa<ChevronRight/></b></a>
           </div>
         </div>
       </div>

@@ -1,18 +1,20 @@
 ---
 import ImageLogo from './ImageLogo.astro';
 ---
-<footer class="w-full p-5">
-  <nav class="grid grid-cols-4">
-    <div class="w-40">
-      <ImageLogo/>
-      <p>
+<footer class="block w-full pl-10 pr-10 pt-10 bg-[#fffaf9]">
+  <nav class="grid grid-cols-3 items-center">
+    <div class="w-70">
+      <div class="w-40 mb-3">
+        <ImageLogo/>
+      </div>
+      <p class="font-serif text-sm italic">
         Nosso objetivo é facilitar o seu dia a dia na cozinha, com receitas
         simples, saborosas e feitas com carinho.
       </p>
     </div>
     <div>
-      <h1>Links rápidos</h1>
-      <ul>
+      <h1 class="font-bold text-xl mb-3 text-[#fb4524]">Links rápidos</h1>
+      <ul class="font-serif text-sm/8">
         <li>Inicio</li>
         <li>Receitas</li>
         <li>Categorias</li>
@@ -21,8 +23,8 @@ import ImageLogo from './ImageLogo.astro';
       </ul>
     </div>
     <div>
-      <h1>Categorias populares</h1>
-      <ul>
+      <h1 class="font-bold text-xl mb-3 text-[#fb4524]">Categorias populares</h1>
+      <ul class="font-serif text-sm/8">
         <li>Bolos e Tortas</li>
         <li>Carnes</li>
         <li>Massas</li>
@@ -31,4 +33,7 @@ import ImageLogo from './ImageLogo.astro';
       </ul>
     </div>
   </nav>
+  <div class='flex justify-center items-center mt-10 p-2'>
+    <p class="text-sm font-sans font-bold">@Copyright (c) 2026 fazreceitas.com.br. All Rights Reserved.</p>
+  </div>
 </footer>
