@@ -4,30 +4,39 @@ import HeroImageReceita from '../components/receitas/HeroImageReceitas.astro';
 import Receitas from '../data/receitas.json';
 
 export function getStaticPaths(){
-return Receitas.map(({slug, titulo, imagem, descricao, tempoPreparo, nivel, categoria, rendimento}) =>{
-return{
-params: {slug},
-props: {
-titulo, 
-imagem,
-descricao,
-tempoPreparo,
-nivel,
-categoria,
-rendimento,
-}
-}
-})
+  return Receitas.map(({
+    slug, 
+    titulo, 
+    imagem, 
+    descricao, 
+    tempoPreparo, 
+    nivel, 
+    categoria, 
+    rendimento
+  }) =>{
+    return{
+      params: {slug},
+      props: {
+        titulo, 
+        imagem,
+        descricao,
+        tempoPreparo,
+        nivel,
+        categoria,
+        rendimento,
+      }
+    }
+  })
 }
 
 const {
-titulo, 
-imagem, 
-descricao, 
-tempoPreparo,
-nivel,
-categoria,
-rendimento
+  titulo, 
+  imagem, 
+  descricao, 
+  tempoPreparo,
+  nivel,
+  categoria,
+  rendimento
 } = Astro.props;
 ---
 <Layout title={titulo}>

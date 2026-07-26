@@ -1,6 +1,6 @@
 [
   {
-    "slug": "frango-recheado-com-agriao",
+    "slug": "Carnes/frango-recheado-com-agriao",
     "titulo": "Frango recheado com agrião",
     "descricao": "Frango recheado com agrião é uma receita sofisticada e ao mesmo tempo reconfortante, perfeita para ocasiões especiais ou um almoço de domingo. O frango fica suculento e macio, enquanto o agrião traz um toque fresco e levemente picante que equilibra muito bem o sabor da carne. O recheio, bem temperado, realça os aromas naturais do prato e cria uma combinação elegante e surpreendente. Assado até dourar, esse prato conquista tanto pelo sabor quanto pela apresentação, sendo uma ótima opção para quem quer variar o cardápio sem complicações.",
     "imagem": "/src/assets/receitas/frango_recheado_com_agrião.jpg",
@@ -37,7 +37,7 @@
     ]
   },
   {
-    "slug": "porco-com-macas",
+    "slug": "Carnes/porco-com-macas",
     "titulo": "Porco com maçãs",
     "descricao": "Porco com maçãs é um prato clássico que combina o sabor marcante e suculento da carne suína com a doçura suave e levemente ácida das maçãs. A carne fica macia e bem temperada, enquanto as maçãs caramelizam durante o preparo, formando um molho aromático e equilibrado. Essa receita traz um contraste perfeito entre o salgado e o doce, resultando em um prato reconfortante, elegante e ideal tanto para um almoço especial quanto para um jantar caprichado.",
     "imagem": "/src/assets/receitas/porco_com_maçãs.jpg",
@@ -64,7 +64,7 @@
     ]
   },
   {
-    "slug": "espetinhos-com-damasco",
+    "slug": "Carnes/espetinhos-com-damasco",
     "titulo": "Espetinhos com damasco",
     "descricao": "Espetinhos com damasco são uma opção sofisticada e cheia de sabor, que combina o salgado da carne com o doce delicado do damasco. Durante o preparo, os espetinhos ficam dourados por fora e suculentos por dentro, enquanto o damasco amolece levemente, liberando um sabor adocicado que equilibra perfeitamente o prato. É uma receita versátil, ideal para churrascos, entradas ou refeições leves, que impressiona tanto pelo visual quanto pela harmonia de sabores.",
     "imagem": "/src/assets/receitas/espetinhos_com_damasco.jpg",
@@ -92,7 +92,7 @@
     ]
   },
   {
-    "slug": "robalo-com-tomate-ao-vinho-branco",
+    "slug": "Peixes/robalo-com-tomate-ao-vinho-branco",
     "titulo": "Robalo com tomate ao vinho branco",
     "descricao": "Robalo com tomate ao vinho branco é um prato leve, elegante e muito aromático. O peixe, de carne branca e delicada, fica macio e suculento, absorvendo os sabores do molho feito com tomates frescos e vinho branco. A acidez suave do tomate e o aroma do vinho realçam o sabor natural do robalo, criando uma combinação equilibrada e refinada. É uma receita perfeita para um almoço especial ou jantar sofisticado, trazendo frescor e leveza ao prato.",
     "imagem": "/src/assets/receitas/robalo_com_tomate_ao_vinho_branco.jpg",
@@ -120,7 +120,7 @@
     ]
   },
   {
-    "slug": "macarrao-a-napolitana",
+    "slug": "Massas/macarrao-a-napolitana",
     "titulo": "Macarrão à napolitana",
     "descricao": "Macarrão à napolitana é uma receita clássica, simples e cheia de sabor. Preparado com molho de tomate bem temperado, ele destaca a acidez equilibrada e o aroma dos ingredientes frescos. O macarrão fica envolvido por um molho encorpado e saboroso, resultando em um prato reconfortante e muito versátil. Ideal para o dia a dia ou para um almoço em família, é uma opção prática que agrada a todos e nunca sai de moda.",
     "imagem": "/src/assets/receitas/macarrão_a_napolitana.jpg",
@@ -152,7 +152,7 @@
     ]
   },
   {
-    "slug": "frango-frito-no-forno",
+    "slug": "Carnes/frango-frito-no-forno",
     "titulo": "Frango frito no forno",
     "descricao": "Frango frito no forno é uma opção prática e deliciosa para quem quer o sabor do frango crocante sem precisar fritar em óleo. Assado até dourar, ele fica com a casquinha crocante por fora e a carne macia e suculenta por dentro. Os temperos penetram bem na carne durante o preparo, garantindo um sabor marcante e equilibrado. É uma receita simples, perfeita para o dia a dia, que combina com diversos acompanhamentos e agrada toda a família.",
     "imagem": "/src/assets/receitas/frango_frito_no_forno.png",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "slug": "salada-de-frango-crocante",
+    "slug": "Saladas/salada-de-frango-crocante",
     "titulo": "Salada de frango crocante",
     "descricao": "Salada de frango crocante é uma opção leve, saborosa e cheia de textura. O frango dourado e crocante contrasta perfeitamente com a frescura das folhas e dos legumes, criando um prato equilibrado e muito apetitoso. Os temperos e o molho envolvem os ingredientes, trazendo ainda mais sabor e aroma à salada. Ideal para uma refeição leve ou entrada especial, é uma receita prática que combina frescor, crocância e suculência em cada garfada.",
     "imagem": "/src/assets/receitas/salada_de_frango_crocante.png",
@@ -226,7 +226,7 @@
     ]
   },
   {
-    "slug": "ensopado-de-carne-a-flamenga",
+    "slug": "Ensopados/ensopado-de-carne-a-flamenga",
     "titulo": "Ensopado de carne à flamenga",
     "descricao": "Ensopado de carne à flamenga é um prato tradicional e reconfortante, conhecido pelo seu sabor profundo e aromático. A carne é cozida lentamente até ficar macia e suculenta, absorvendo os temperos e formando um molho encorpado e saboroso. O preparo cuidadoso realça os aromas e cria uma combinação rica e equilibrada, perfeita para dias mais frios ou para um almoço especial em família. É uma receita clássica, cheia de tradição e muito apreciada por quem gosta de pratos robustos e bem temperados.",
     "imagem": "/src/assets/receitas/ensopado_de_carne_a_flamenga.png",
@@ -263,7 +263,7 @@
     ]
   },
   {
-    "slug": "folhados-de-peru",
+    "slug": "Massas/folhados-de-peru",
     "titulo": "Folhados de peru",
     "descricao": "Folhados de peru são uma opção prática e saborosa, ideais para servir como lanche, entrada ou acompanhamento. Preparados com massa folhada dourada e crocante, eles envolvem um recheio suculento de peru bem temperado, criando uma combinação leve e muito agradável ao paladar. O contraste entre a textura delicada da massa e o recheio macio torna o prato ainda mais apetitoso. Versáteis e fáceis de servir, os folhados de peru são perfeitos para reuniões, festas ou um lanche especial.",
     "imagem": "/src/assets/receitas/folhados_de_peru.png",
@@ -300,7 +300,7 @@
     ]
   },
   {
-    "slug": "frango-crocante",
+    "slug": "Carnes/frango-crocante",
     "titulo": "Frango Crocante no Forno com Parmesão e Ervas",
     "descricao": "O frango crocante no forno é uma receita clássica e fácil, perfeita para quem busca um prato saboroso e com textura irresistível. Preparado com pedaços de frango assados até ficarem dourados, o prato recebe uma cobertura especial de queijo parmesão ralado, temperos aromáticos e batatinhas trituradas, que garantem uma crocância única. A manteiga derretida intensifica o sabor e ajuda a formar uma casquinha dourada e suculenta, enquanto a salsinha e o estragão trazem frescor e equilíbrio ao prato. Ideal para almoço em família, refeições especiais ou cardápios do dia a dia, essa receita de frango crocante combina praticidade com um resultado delicioso e bem apresentado.",
     "imagem": "/src/assets/receitas/frango_crocante.png",
@@ -329,7 +329,7 @@
     ]
   },
   {
-    "slug": "pescadinhas-com-laranja",
+    "slug": "Peixes/pescadinhas-com-laranja",
     "titulo": "Pescadinhas com Laranja Assadas",
     "descricao": "As pescadinhas com laranja assadas são uma receita leve, saudável e cheia de sabor, ideal para quem busca um prato nutritivo e sofisticado. O peixe é temperado com sal e pimenta-do-reino e assado até ficar macio e suculento, recebendo um molho aromático feito com manteiga, cebola e mostarda. O grande destaque da receita é o suco natural de laranja, que traz frescor e um leve toque adocicado, equilibrando perfeitamente os sabores e criando um molho delicado e perfumado. Finalizada com salsinha picada, a preparação ganha cor e um aroma agradável, tornando-se uma excelente opção para almoços leves, refeições saudáveis ou cardápios especiais.",
     "imagem": "/src/assets/receitas/pescadinhas_com_laranja.png",
@@ -354,7 +354,7 @@
     ]
   },
   {
-    "slug": "enrolado-de-carne",
+    "slug": "Carnes/enrolado-de-carne",
     "titulo": "Enrolado de Carne Assado com Legumes e Molho",
     "descricao": "O enrolado de carne assado é uma receita clássica e reconfortante, ideal para quem busca um prato principal suculento e cheio de sabor. Preparado com capa de filé dourada e cozida lentamente, o prato ganha uma textura macia e um sabor intenso, realçado por ervas aromáticas e um molho rico feito com caldo de carne e shoyu. A combinação de legumes como cenoura, cebola e salsão traz equilíbrio e profundidade ao preparo, enquanto o tomilho e a manjerona adicionam um aroma delicado e sofisticado. Finalizado com um molho encorpado, o enrolado de carne é perfeito para almoços em família, ocasiões especiais ou refeições completas e nutritivas.",
     "imagem": "/src/assets/receitas/enrolado_de_carne.png",
@@ -385,7 +385,7 @@
     ]
   },
   {
-    "slug": "frango-ao-limao-no-forno",
+    "slug": "Carnes/frango-ao-limao-no-forno",
     "titulo": "Frango ao Limão no Forno com Legumes",
     "descricao": "O frango ao limão no forno é uma receita clássica, aromática e cheia de frescor, ideal para quem busca um prato principal suculento e equilibrado. Preparado com pedaços de frango assados lentamente, o prato ganha sabor marcante com o suco e as raspas de limão, que trazem um toque cítrico delicado e refrescante. A combinação de ervas como tomilho e salsinha intensifica o aroma, enquanto legumes como cebola, cenoura e salsão garantem textura e profundidade ao preparo. O caldo de galinha e a manteiga ajudam a manter a carne macia e suculenta, formando um molho saboroso e levemente encorpado. Com uma crosta leve e dourada e um molho perfumado, o frango ao limão no forno é perfeito para almoços em família, refeições especiais ou cardápios equilibrados do dia a dia.",
     "imagem": "/src/assets/receitas/frango_ao_limao_no_forno.png",
@@ -424,7 +424,7 @@
     ]
   },
   {
-    "slug": "bifes-com-molho-de-pimenta-verde",
+    "slug": "Carnes/bifes-com-molho-de-pimenta-verde",
     "titulo": "Bifes com Molho de Pimenta Verde Cremoso",
     "descricao": "Os bifes com molho de pimenta verde são uma receita clássica e sofisticada, perfeita para quem busca um prato principal rápido e cheio de sabor. Os bifes são selados na frigideira até ficarem dourados e suculentos, enquanto o molho cremoso é preparado com manteiga, cebola e pimenta-do-reino verde, trazendo aroma marcante e levemente picante. O molho ganha profundidade com caldo de carne, purê de tomate e ketchup, resultando em uma textura encorpada e sabor equilibrado. O toque final de iogurte natural adiciona cremosidade e suavidade, criando um contraste perfeito com a intensidade da pimenta verde. Ideal para almoços especiais, jantares rápidos ou refeições do dia a dia, os bifes com molho de pimenta verde são uma excelente opção para quem procura uma receita de carne fácil, elegante e cheia de personalidade.",
     "imagem": "/src/assets/receitas/bifes_com_molho_de_pimenta_verde.png",
@@ -454,7 +454,7 @@
     ]
   },
   {
-    "slug": "torta-de-peixe",
+    "slug": "Tortas/torta-de-peixe",
     "titulo": "Torta de Peixe Cremosa com Batata e Legumes",
     "descricao": "A torta de peixe cremosa é uma receita clássica e reconfortante, perfeita para quem busca um prato completo, nutritivo e cheio de sabor. Preparada com filé de peixe cozido em leite aromatizado com ervas e especiarias, a receita ganha uma textura delicada e um sabor suave e equilibrado. A combinação de purê de batata cremoso, legumes e ovos picados cria uma base rica e nutritiva, enquanto a manteiga e o leite ajudam a formar um recheio macio e saboroso. Temperos como louro e pimenta-do-reino trazem profundidade ao prato, resultando em uma torta bem aromática e agradável ao paladar.Finalizada no forno até ficar levemente dourada e decorada com tomates, a torta de peixe é ideal para almoços em família, refeições completas ou ocasiões especiais.",
     "imagem": "/src/assets/receitas/torta_de_peixe.png",
@@ -494,7 +494,7 @@
     ]
   },
   {
-    "slug": "cozido-de-carne-e-bolinhos",
+    "slug": "Cozidos/cozido-de-carne-e-bolinhos",
     "titulo": "Cozido de Carne com Legumes e Bolinhos Caseiros",
     "descricao": "O cozido de carne com bolinhos é uma receita tradicional e reconfortante, perfeita para quem busca um prato completo, nutritivo e cheio de sabor. Preparado com cubos de alcatra cozidos lentamente, o prato ganha uma textura macia e suculenta, absorvendo os aromas dos temperos e do caldo de carne. A combinação de legumes como cenoura, cebola e salsão traz profundidade e equilíbrio ao preparo, enquanto o toque de suco de laranja adiciona leve frescor e realça os sabores. O molho encorpado, enriquecido com purê de tomate e ervas, torna o cozido ainda mais saboroso e aromático. Os bolinhos caseiros preparados com farinha, toicinho e ervas completam a receita, trazendo textura e tornando o prato ainda mais substancioso. Ideal para almoços em família, refeições completas ou dias mais frios, este cozido é uma opção clássica e muito nutritiva.",
     "imagem": "/src/assets/receitas/cozido_de_carne_e_bolinhos.png",
@@ -536,7 +536,7 @@
     ]
   },
   {
-    "slug": "frango-a-paprica",
+    "slug": "Carnes/frango-a-paprica",
     "titulo": "Frango à Páprica Cremoso com Molho",
     "descricao": "O frango à páprica é uma receita clássica, cremosa e cheia de sabor, perfeita para quem busca um prato principal reconfortante e aromático. Preparado com pedaços de frango cozidos lentamente, o prato ganha um molho rico e aveludado à base de páprica doce, cebola e creme de leite, que proporciona sabor suave e levemente adocicado. A páprica traz cor vibrante e aroma marcante, enquanto o caldo de galinha intensifica o sabor e mantém a carne macia e suculenta. O toque de limão equilibra o molho, adicionando leve frescor ao preparo. Finalizado com cebolinha picada, o prato fica ainda mais aromático e visualmente apetitoso. Ideal para almoços em família, refeições especiais ou pratos reconfortantes do dia a dia, o frango à páprica é uma opção simples, elegante e cheia de personalidade.",
     "imagem": "/src/assets/receitas/frango_a_paprica.png",
@@ -563,7 +563,7 @@
     ]
   },
   {
-    "slug": "sardinhas-grelhadas",
+    "slug": "Peixes/sardinhas-grelhadas",
     "titulo": "Sardinhas Grelhadas com Limão",
     "descricao": "As sardinhas grelhadas são uma receita simples, saudável e cheia de sabor, perfeita para quem busca uma refeição leve e nutritiva. Preparadas na grelha até ficarem douradas e suculentas, as sardinhas ganham um toque especial com suco de limão, que realça o sabor natural do peixe e traz frescor ao prato. Temperadas com sal, pimenta-do-reino e alcaravia, as sardinhas ficam aromáticas e levemente cítricas, com textura macia por dentro e levemente crocante por fora. O preparo rápido mantém a suculência e preserva os nutrientes do peixe, tornando a receita uma excelente opção para uma alimentação equilibrada. Ideais para almoços leves, jantares rápidos ou refeições saudáveis do dia a dia, as sardinhas grelhadas são práticas, econômicas e muito saborosas.",
     "imagem": "/src/assets/receitas/sardinhas_grelhadas.png",
@@ -584,7 +584,7 @@
     ]
   },
   {
-    "slug": "fritada-de-frango",
+    "slug": "Receitas-Rápidas/fritada-de-frango",
     "titulo": "Fritada de frango",
     "descricao": "A fritada de frango é uma receita prática, nutritiva e cheia de sabor, ideal para aproveitar frango cozido que já esteja pronto. Com tirinhas suculentas de frango, ovos batidos e macarrão ninho cozido no caldo de galinha, o prato ganha textura macia por dentro e levemente dourada por fora, graças à manteiga ou margarina utilizada no preparo. Temperada com páprica doce, pimenta-do-reino e um toque opcional de cominho e alho amassado, essa fritada combina aromas marcantes e sabor equilibrado. É uma excelente opção para almoço ou jantar rápido, servindo até 4 porções, e pode ser acompanhada de salada fresca para uma refeição completa.",
     "imagem": "/src/assets/receitas/fritada_de_frango.png",
@@ -615,7 +615,7 @@
     ]
   },
   {
-    "slug": "enrolado-de-queijo",
+    "slug": "Receitas-Rápidas/enrolado-de-queijo",
     "titulo": "Enrolado de queijo",
     "descricao": "Os enrolados de queijo são uma opção irresistível para quem busca uma receita prática, cremosa e cheia de sabor. Preparados com fatias de queijo prato ou gouda recheadas com ricota temperada, pimenta-do-reino e salsinha, e envolvidas por presunto, eles formam rolinhos delicados e muito apetitosos. O prato ganha ainda mais destaque com o molho de tomate caseiro, feito com cebola, alho, tomate fresco, folha de louro e um toque de açúcar para equilibrar a acidez. Finalizado com ervas como salsinha ou manjericão, o molho envolve os enrolados, deixando-os suculentos e aromáticos. Ideal para servir como entrada, acompanhamento ou prato principal leve, essa receita rende 4 porções e combina perfeitamente com arroz branco, salada ou até uma massa simples. Uma preparação elegante, mas fácil de fazer, perfeita para o dia a dia ou ocasiões especiais.",
     "imagem": "/src/assets/receitas/enrolados_de_queijo.png",
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "slug": "batatas-recheadas-com-bacon-e-ovos",
+    "slug": "Receitas-Rápidas/batatas-recheadas-com-bacon-e-ovos",
     "titulo": "Batatas recheadas com bacon e ovos",
     "descricao": "As batatas recheadas com bacon e ovos são uma receita rústica, cremosa e extremamente saborosa, perfeita para quem aprecia combinações clássicas e reconfortantes. Assadas até ficarem macias por dentro e levemente crocantes por fora, as batatas são recheadas com um creme feito da própria polpa misturada com manteiga, leite e queijo tipo cheddar (ou prato), garantindo textura aveludada e sabor marcante. O bacon adiciona um toque defumado e crocante, enquanto os ovos — com claras e gemas incorporadas ao recheio — deixam a preparação ainda mais rica e estruturada. Finalizada com salsinha fresca, sal e pimenta-do-reino, a receita equilibra intensidade e frescor. Ideal para servir como prato principal ou acompanhamento especial, rende 4 porções generosas e combina muito bem com uma salada verde ou legumes grelhados. Uma opção prática, nutritiva e perfeita para variar o cardápio do dia a dia.",
     "imagem": "/src/assets/receitas/batatas_recheadas_com_bacon_e_ovos.png",
@@ -678,7 +678,7 @@
     ]
   },
   {
-    "slug": "sopa-de-legumes",
+    "slug": "Sopas/sopa-de-legumes",
     "titulo": "Sopa de legumes",
     "descricao": "A sopa de legumes é uma receita leve, nutritiva e reconfortante, perfeita para os dias mais frios ou para quem busca uma refeição equilibrada e caseira. Preparada com batatas, cenouras, cebola e pimentão vermelho, cozidos lentamente até ficarem macios, ela combina simplicidade e sabor em cada colherada. Temperada com azeite de oliva e finalizada com salsinha fresca, a sopa ganha aroma delicado e toque especial. A textura pode ser mantida rústica, com pedaços de legumes, ou levemente cremosa, dependendo do preparo. Para complementar, os croutons feitos com pão amanhecido dourado no óleo adicionam crocância e contraste à suavidade do caldo. Rendendo 4 porções, é uma opção econômica, saudável e ideal para o dia a dia, podendo ser servida como entrada ou prato principal leve.",
     "imagem": "/src/assets/receitas/sopa_de_legumes.png",
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "slug": "hamburgueres-de-presuntada",
+    "slug": "Receitas-Rápidas/hamburgueres-de-presuntada",
     "titulo": "Hambúrgueres de presuntada",
     "descricao": "Os hambúrgueres de presuntada são uma alternativa prática e saborosa ao hambúrguer tradicional, ideais para um lanche rápido e diferente. Preparados com presuntada amassada e temperada com picles de pepino, mostarda, maionese e pimenta-do-reino, eles ganham um sabor marcante, levemente ácido e muito equilibrado. Após moldados, os hambúrgueres são montados no pão com queijo cheddar derretido e finalizados com rodelas de tomate, criando uma combinação cremosa e suculenta. O contraste entre o sabor intenso da presuntada e a suavidade do queijo torna cada mordida ainda mais apetitosa. Rendendo 4 porções, essa receita é perfeita para um lanche da tarde, jantar descontraído ou até para variar o cardápio do fim de semana com algo simples, econômico e cheio de sabor.",
     "imagem": "/src/assets/receitas/hamburgueres_de_presuntada.png",
@@ -738,7 +738,7 @@
     ]
   },
   {
-    "slug": "forminhas-de-ricota-e-presunto",
+    "slug": "Receitas-Rápidas/forminhas-de-ricota-e-presunto",
     "titulo": "Forminhas de ricota e presunto",
     "descricao": "As forminhas de ricota e presunto são uma opção delicada e saborosa, perfeitas para servir como entrada, lanche ou acompanhamento leve. Preparadas com ricota cremosa, ovos levemente batidos e cubinhos de presunto, elas combinam textura macia por dentro com uma superfície levemente dourada após irem ao forno. A cebola refogada e os cogumelos picados acrescentam profundidade de sabor, enquanto a noz-moscada traz um toque aromático especial. Temperadas com sal e pimenta-do-reino na medida certa, essas forminhas ficam equilibradas e muito agradáveis ao paladar. Assadas até ficarem firmes e finalizadas com manteiga derretida e raminhos de salsinha para decorar, rendem 4 porções e são ideais para compor mesas de brunch, servir em reuniões ou variar o cardápio do dia a dia com algo simples, elegante e nutritivo.",
     "imagem": "/src/assets/receitas/forminhas_de_ricota_e_presunto.png",
@@ -769,7 +769,7 @@
     ]
   },
   {
-    "slug": "fondue-de-queijo",
+    "slug": "Receitas-Rápidas/fondue-de-queijo",
     "titulo": "Fondue de queijo",
     "descricao": "O fondue de queijo é uma receita clássica, perfeita para reunir família e amigos em momentos especiais. Cremoso e aromático, ele combina queijos como gouda ou gruyère com cheddar, derretidos suavemente com vinho branco seco, criando uma mistura intensa e envolvente. A adição de alho, noz-moscada e um toque opcional de kirsch realça os sabores, enquanto a farinha ajuda a garantir a textura lisa e homogênea. O resultado é um creme de queijo encorpado, ideal para ser mantido aquecido e servido diretamente na panela de fondue. Para acompanhar, cubinhos de pão francês e uma seleção de legumes crus — como salsão, couve-flor e cenoura — trazem contraste de textura e equilíbrio ao prato. Rendendo 4 porções, essa receita é sofisticada na apresentação, mas simples no preparo, sendo uma excelente escolha para noites frias ou ocasiões especiais.",
     "imagem": "/src/assets/receitas/fondue_de_queijo.png",
@@ -802,7 +802,7 @@
     ]
   },
   {
-    "slug": "gravatinhas-com-pimentões",
+    "slug": "Receitas-Rápidas/gravatinhas-com-pimentões",
     "titulo": "Gravatinhas com pimentões",
     "descricao": "As gravatinhas com pimentões são uma receita simples, colorida e cheia de sabor, ideal para quem aprecia pratos leves com toque mediterrâneo. O macarrão tipo gravatinha envolve perfeitamente o molho feito com pimentões vermelho e verde em tiras, refogados no azeite de oliva com cebola e alho. A combinação das azeitonas pretas com o orégano traz um aroma marcante e um contraste levemente salgado, equilibrado com sal e pimenta-do-reino na medida certa. O resultado é uma massa aromática, com textura delicada e ingredientes que se complementam harmoniosamente. Rendendo 4 porções, é uma excelente opção para um almoço rápido ou jantar prático, podendo ser servida como prato principal ou acompanhada de uma salada fresca. Uma receita versátil, econômica e perfeita para o dia a dia.",
     "imagem": "/src/assets/receitas/gravatinhas_com_pimentoes.png",
@@ -829,7 +829,7 @@
     ]
   },
   {
-    "slug": "ovos-com-camarão",
+    "slug": "Receitas-Rápidas/ovos-com-camarão",
     "titulo": "Ovos com camarão",
     "descricao": "Os ovos com camarão são uma receita saborosa e marcante, que combina a delicadeza dos frutos do mar com a cremosidade dos ovos em um preparo equilibrado entre o agridoce e o levemente ácido. O camarão miúdo traz textura macia e sabor intenso, enquanto o molho à base de tomate, purê de tomate, açúcar mascavo e vinagre de vinho cria um contraste rico e envolvente. O toque de molho inglês adiciona profundidade ao prato, realçando os sabores e garantindo um resultado aromático e bem temperado. Os ovos completam a receita, deixando a mistura mais estruturada e nutritiva. Com rendimento para 4 porções, é uma ótima opção para variar o cardápio com um prato diferente, que pode ser servido com arroz branco ou pão fresco para aproveitar todo o molho. Uma combinação simples, mas cheia de personalidade.",
     "imagem": "/src/assets/receitas/ovos_com_camarao.png",
@@ -858,7 +858,7 @@
     ]
   },
   {
-    "slug": "pizza-frita",
+    "slug": "Receitas-Rápidas/pizza-frita",
     "titulo": "Pizza frita",
     "descricao": "A pizza frita é uma versão prática e irresistível da tradicional pizza, perfeita para quem busca uma receita rápida e cheia de sabor. Com massa simples, preparada com farinha de trigo, fermento e margarina, ela fica macia por dentro e levemente crocante por fora após a fritura. A cobertura combina tomate bem picado temperado com orégano e pimenta-do-reino, fatias finas de muçarela que derretem perfeitamente e filés de anchova que acrescentam um toque intenso e levemente salgado ao conjunto. O resultado é uma pizza de sabor marcante e textura contrastante. Ideal para servir em porções individuais, rende 4 porções e é uma ótima opção para um lanche diferente, jantar rápido ou reunião informal. Simples no preparo e surpreendente no sabor.",
     "imagem": "/src/assets/receitas/pizza_frita.png",
@@ -889,7 +889,7 @@
     ]
   },
   {
-    "slug": "sopa-de-feijão",
+    "slug": "Receitas-Rápidas/sopa-de-feijão",
     "titulo": "Sopa de feijão",
     "descricao": "A sopa de feijão é um prato nutritivo, encorpado e cheio de sabor, perfeito para os dias mais frios ou para uma refeição completa e reconfortante. Preparada com feijão-rosinha previamente deixado de molho, ela ganha textura cremosa e sabor profundo ao ser cozida com caldo de galinha e legumes frescos. O toque especial fica por conta do toucinho defumado, que adiciona aroma marcante e leve defumado ao preparo. Cebola, alho-poró, salsão e cenoura complementam a base, trazendo equilíbrio e riqueza ao prato. O tomate e o orégano reforçam o sabor, enquanto a salsinha fresca finaliza com leveza e frescor. Rendendo 4 porções, é uma receita substanciosa e ideal como prato principal, podendo ser servida com pão fresco ou torradas. Uma combinação clássica, caseira e cheia de tradição.",
     "imagem": "/src/assets/receitas/sopa_de_feijao.png",
@@ -919,7 +919,7 @@
     ]
   },
   {
-    "slug": "sanduiches-de-presunto-e-tomate",
+    "slug": "Receitas-Rápidas/sanduiches-de-presunto-e-tomate",
     "titulo": "Sanduíches de presunto e tomate",
     "descricao": "Os sanduíches de presunto e tomate são uma opção prática e saborosa, perfeita para um lanche reforçado ou refeição rápida. Preparados com fatias de presunto defumado e tomates frescos, eles combinam suculência e leveza em cada mordida. O diferencial da receita está no creme temperado, feito com maionese, mostarda, molho inglês e um toque de molho de soja, que traz profundidade e equilíbrio ao sabor. A cebolinha picada acrescenta frescor, enquanto o queijo-de-minas curado ralado proporciona textura e um leve sabor marcante. Montados em pão tipo baguete e levados ao forno para aquecer e gratinar levemente, esses sanduíches ficam crocantes por fora e cremosos por dentro. Rendendo 4 porções, são ideais para servir em encontros informais, lanches da tarde ou até como opção prática para o jantar.",
     "imagem": "/src/assets/receitas/sanduiches_de_presunto_e_tomate.png",
@@ -949,7 +949,7 @@
     ]
   },
   {
-    "slug": "hamburguer-de-linguiça",
+    "slug": "Receitas-Rápidas/hamburguer-de-linguiça",
     "titulo": "Hambúrguer de lingüiça",
     "descricao": "O hambúrguer de linguiça é uma opção suculenta e cheia de sabor, ideal para quem busca variar o tradicional hambúrguer bovino. Preparado com linguiça de porco fresca, sem a pele, ele ganha textura macia e tempero marcante, característico da carne suína bem condimentada. A combinação com cebola e cenoura raladas traz leveza e umidade à massa, enquanto as migalhas de pão ajudam a dar estrutura. O toque de catchup e molho de pimenta vermelha acrescenta um leve contraste agridoce e picante, equilibrado com sal e pimenta-do-reino. Após moldados e fritos até ficarem dourados por fora e suculentos por dentro, os hambúrgueres rendem 6 porções e podem ser servidos no pão com salada, queijo ou acompanhados de arroz e legumes. Uma receita prática, saborosa e perfeita para um almoço ou lanche reforçado.",
     "imagem": "/src/assets/receitas/hamburguer_de_linguiça.png",
@@ -975,7 +975,7 @@
     ]
   },
   {
-    "slug": "torradas-com-ovos-mexidos",
+    "slug": "Receitas-Rápidas/torradas-com-ovos-mexidos",
     "titulo": "Torradas com ovos mexidos",
     "descricao": "As torradas com ovos mexidos são uma opção completa e saborosa para o café da manhã, brunch ou lanche reforçado. Preparadas com pão de forma sem casca levemente amanteigado e levado ao forno, elas ficam douradas e crocantes por fora, formando uma base perfeita para o recheio cremoso. Os ovos são misturados com leite, raiz-forte preparada e temperados com sal e pimenta-do-reino, garantindo textura macia e sabor marcante. O presunto picado, o pimentão verde e a cebolinha acrescentam frescor e leve crocância, enquanto o queijo-de-minas curado ralado finaliza com um toque levemente intenso e gratinado. Rendendo 4 porções, é uma receita prática, nutritiva e cheia de personalidade, ideal para variar o cardápio com uma combinação equilibrada entre cremosidade, crocância e sabor.",
     "imagem": "/src/assets/receitas/torradas_com_ovos_mexidos.png",
@@ -1004,7 +1004,7 @@
     ]
   },
   {
-    "slug": "surpresas-de-peixe",
+    "slug": "Receitas-Rápidas/surpresas-de-peixe",
     "titulo": "Surpresas de peixe",
     "descricao": "As surpresas de peixe são uma receita deliciosa e criativa, perfeita para quem quer servir peixe de forma diferente e irresistível. Preparadas com filés de linguado delicadamente enrolados com pedaços de queijo prato ou cheddar, elas combinam sabor suave do peixe com a cremosidade do queijo derretido no interior. Após serem passadas em ovos batidos e envolvidas em migalhas de pão fresco, as porções são fritas até ficarem douradas e crocantes por fora, mantendo o interior macio e suculento. O contraste entre a casquinha crocante e o recheio cremoso faz jus ao nome da receita. Com rendimento para 4 porções, é uma excelente opção para um almoço especial ou jantar diferente, podendo ser acompanhada de arroz branco, purê de batatas ou uma salada fresca. Uma combinação simples, mas elegante e cheia de sabor.",
     "imagem": "/src/assets/receitas/surpresas_de_peixe.png",
@@ -1027,7 +1027,7 @@
     ]
   },
   {
-    "slug": "sopa-de-legumes-finlandesa",
+    "slug": "Sopas/sopa-de-legumes-finlandesa",
     "titulo": "Sopa de legumes finlandesa",
     "descricao": "A sopa de legumes finlandesa é uma receita cremosa e reconfortante, perfeita para dias frios ou para quem busca uma refeição nutritiva e equilibrada. Preparada com batatas, cenouras, couve-flor, ervilhas e vagem, ela combina diferentes texturas e sabores em um caldo rico e bem temperado. O toque especial fica por conta do creme de leite e da gema, que dão mais cremosidade ao preparo, enquanto a manteiga e a farinha ajudam a criar uma base levemente encorpada. A páprica doce acrescenta um aroma suave e delicado, realçando o sabor dos legumes. Finalizada com queijo ralado para acompanhar, essa sopa rende 6 porções e pode ser servida como prato principal leve ou entrada sofisticada. Uma receita tradicional, acolhedora e cheia de sabor, ideal para reunir a família à mesa.",
     "imagem": "/src/assets/receitas/sopa_de_legumes_finlandesa.png",
@@ -1059,7 +1059,7 @@
     ]
   },
   {
-    "slug": "espaguete-com-cogumelos",
+    "slug": "Receitas-Rápidas/espaguete-com-cogumelos",
     "titulo": "Espaguete com cogumelos",
     "descricao": "O espaguete com cogumelos é uma receita clássica e aromática, perfeita para quem aprecia massas com molho encorpado e sabor marcante. Preparado com espaguete cozido no ponto ideal, ele é envolvido por um molho rico feito com tomates frescos, cebola, pimentão verde e cogumelos fatiados. O azeite e a manteiga garantem maciez e brilho ao preparo, enquanto o alho (opcional), o orégano, o manjericão seco e a folha de louro trazem um toque especial de ervas que intensificam o aroma e o sabor. Finalizado com queijo parmesão ralado, o prato ganha cremosidade e um leve toque salgado que equilibra perfeitamente os ingredientes. Rendendo 4 porções, é uma excelente opção para um almoço em família ou jantar prático, combinando simplicidade e sofisticação em uma massa saborosa e reconfortante.",
     "imagem": "/src/assets/receitas/espaguete_com_cogumelos.png",
@@ -1091,7 +1091,7 @@
     ]
   },
   {
-    "slug": "sanduíche-picante-de-tres-andares",
+    "slug": "Receitas-Rápidas/sanduíche-picante-de-tres-andares",
     "titulo": "Sanduíche picante de três andares",
     "descricao": "O sanduíche picante de três andares é uma opção robusta e cheia de personalidade, perfeita para quem gosta de sabores intensos e combinações marcantes. Preparado com camadas de pão preto e pão branco, ele cria um visual atrativo e uma textura diferenciada a cada mordida. O recheio combina frango cozido e picado com maionese temperada com curry, trazendo um toque levemente picante e aromático. O bacon acrescenta crocância e sabor defumado, enquanto as folhas de alface, o pepino e o tomate equilibram o conjunto com frescor e leveza. Com rendimento para 4 porções, é ideal para lanches reforçados, reuniões informais ou até como prato principal acompanhado de salada ou batatas. Uma receita prática, saborosa e com apresentação que impressiona.",
     "imagem": "/src/assets/receitas/sanduiche_picante_de_tres_andares.png",
@@ -1119,7 +1119,7 @@
     ]
   },
   {
-    "slug": "folhado-de-queijo",
+    "slug": "Receitas-Rápidas/folhado-de-queijo",
     "titulo": "Folhado de queijo",
     "descricao": "O folhado de queijo é uma receita clássica, elegante e irresistivelmente cremosa. Preparado com massa folhada leve e crocante, ele envolve um recheio rico à base de queijo gouda ou gruyère, combinado com creme de leite, ovos e manteiga, resultando em uma textura macia e sabor marcante. Temperado com noz-moscada, pimenta-do-reino e um toque de molho de pimenta vermelha, o recheio ganha profundidade e leve picância, equilibrando perfeitamente a suavidade do queijo. A páprica polvilhada por cima e o ovo batido para pincelar garantem um acabamento dourado e apetitoso após ir ao forno. Rendendo 4 porções, é uma excelente opção para servir como entrada, acompanhamento ou prato principal leve, acompanhado de salada verde. Uma combinação sofisticada de crocância e cremosidade que agrada em qualquer ocasião.",
     "imagem": "/src/assets/receitas/folhado_de_queijo.png",
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "slug": "espetinhos-de-linguiça",
+    "slug": "Receitas-Rápidas/espetinhos-de-linguiça",
     "titulo": "Espetinhos de lingüiça",
     "descricao": "Os espetinhos de linguiça são uma opção prática e saborosa, perfeita para reunir amigos em um almoço descontraído ou churrasco especial. Preparados com linguiças de porco cortadas em pedaços, intercaladas com bacon, pimentão verde, cebolas pequenas e tomates, eles combinam suculência, leve defumado e frescor dos legumes. A manteiga amolecida misturada com mostarda e um toque de molho inglês acrescenta brilho e sabor extra aos espetinhos, realçando o tempero da carne e criando uma camada aromática durante o preparo. Com rendimento para 4 porções, essa receita é versátil e pode ser feita na grelha, churrasqueira ou forno, resultando em espetinhos dourados por fora e macios por dentro. Uma combinação clássica, colorida e cheia de sabor, ideal para ocasiões informais.",
     "imagem": "/src/assets/receitas/espetinhos_de_linguiça.png",
@@ -1182,7 +1182,7 @@
     ]
   },
   {
-    "slug": "caril-de-legumes",
+    "slug": "Legumes-e-Verduras/caril-de-legumes",
     "titulo": "Caril de legumes",
     "descricao": "Uma combinação cremosa e aromática de legumes frescos envolvidos em um delicado molho de curry. Nesta receita, a couve-flor, as cenouras e a vagem são cozidas até atingirem o ponto ideal e depois recebem um molho preparado com manteiga, farinha de trigo, leite, curry em pó e gengibre ralado, criando um sabor levemente picante e muito equilibrado. O toque especial fica por conta do suco de laranja, que acrescenta uma nota cítrica suave, enquanto o creme de leite garante uma textura aveludada. Para finalizar, amêndoas crocantes e hortelã ou salsinha picada trazem frescor e um contraste de sabores que tornam o prato ainda mais sofisticado. Ideal como acompanhamento ou prato principal para quem busca uma refeição vegetariana rica em sabor, o caril de legumes é uma opção nutritiva, colorida e perfeita para servir em qualquer ocasião. ",
     "imagem": "/src/assets/receitas/caril_de_legumes.png",
@@ -1216,7 +1216,7 @@
     ]
   },
   {
-    "slug": "rosti",
+    "slug": "Legumes-e-Verduras/rosti",
     "titulo": "Rösti",
     "descricao": "O rösti é um clássico da culinária suíça que conquista pelo contraste entre a casquinha dourada e crocante por fora e o interior macio e saboroso. Nesta versão simples e tradicional, batatas cozidas e raladas são combinadas com cebola, sal e pimenta-do-reino, formando uma mistura que é frita na manteiga até atingir uma textura irresistível. Durante o preparo, o disco de batata é cuidadosamente dourado dos dois lados, criando uma superfície crocante que envolve um recheio delicado e cheio de sabor. A manteiga confere um aroma especial e ajuda a realçar a suavidade dos ingredientes, tornando o prato ainda mais apetitoso. Perfeito como acompanhamento ou até mesmo como prato principal, o rösti pode ser servido com carnes, saladas ou ovos, além de aceitar diversas variações de recheios e coberturas. É uma receita prática, versátil e elegante, ideal para qualquer refeição do dia.",
     "imagem": "/src/assets/receitas/rosti.png",
@@ -1238,7 +1238,7 @@
     ]
   },
   {
-    "slug": "salada-gazpacho",
+    "slug": "Saladas/salada-gazpacho",
     "titulo": "Salada gazpacho",
     "descricao": "Leve, colorida e extremamente refrescante, a Salada Gazpacho é inspirada na tradicional sopa fria espanhola, trazendo uma combinação harmoniosa de tomates maduros, pepino, cebola e pimentões cortados em fatias finas. O resultado é um prato cheio de frescor, ideal para os dias quentes ou como acompanhamento de diversas refeições. Os vegetais são organizados em camadas e temperados com um saboroso molho francês, que realça os ingredientes sem esconder seu sabor natural. As migalhas de pão adicionam uma textura especial à receita, enquanto o período de descanso na geladeira permite que todos os sabores se misturem e fiquem ainda mais intensos. Finalizada com azeitonas pretas e salsinha picada, esta salada é uma opção nutritiva, elegante e fácil de preparar. Perfeita para acompanhar carnes grelhadas, churrascos ou sanduíches, ela oferece um equilíbrio entre crocância, suculência e um tempero delicadamente aromático.",
     "imagem": "/src/assets/receitas/salada_gazpacho.png",
@@ -1265,7 +1265,7 @@
     ]
   },
   {
-    "slug": "batatas-com-paprica",
+    "slug": "Legumes-e-Verduras/batatas-com-paprica",
     "titulo": "Batatas com páprica",
     "descricao": "As Batatas com Páprica são uma receita simples e cheia de sabor, perfeita para quem aprecia acompanhamentos cremosos e bem temperados. As batatas são previamente cozidas até ficarem levemente macias e, em seguida, preparadas lentamente com cebola dourada, páprica doce, tomate e caldo de galinha, absorvendo todos os aromas e criando uma combinação irresistível. Durante o cozimento, os ingredientes se unem para formar um molho delicado e rico em sabor, enquanto a páprica confere uma coloração vibrante e um toque levemente adocicado. A alcaravia, opcional na receita, acrescenta um aroma característico que harmoniza muito bem com os demais ingredientes. Para finalizar, o creme de leite azedo é incorporado, deixando o prato ainda mais cremoso e equilibrando o tempero das especiarias. Servidas bem quentes e polvilhadas com um pouco mais de páprica doce, essas batatas são um excelente acompanhamento para carnes assadas, grelhadas ou aves, além de serem uma opção reconfortante para qualquer ocasião.",
     "imagem": "/src/assets/receitas/batatas_com_paprica.png",
@@ -1294,7 +1294,7 @@
     ]
   },
   {
-    "slug": "salada-de-abacate-com-laranja",
+    "slug": "Saladas/salada-de-abacate-com-laranja",
     "titulo": "Salada de abacate com laranja",
     "descricao": "Uma combinação leve, refrescante e cheia de sabor, a salada de abacate com laranja reúne ingredientes frescos que equilibram o doce natural das frutas com o toque suave do molho à base de mel, vinagre de maçã e azeite de oliva. A alface adiciona crocância, enquanto as maçãs trazem ainda mais frescor e textura ao prato. Ideal como entrada ou acompanhamento de refeições leves, essa receita fica pronta em cerca de 15 minutos e oferece uma apresentação colorida e elegante. O segredo para o melhor resultado é preparar o abacate pouco antes de servir, preservando sua cor e cremosidade. Nutritiva e versátil, é uma excelente opção para dias quentes ou para quem busca uma alimentação equilibrada e saborosa.",
     "imagem": "/src/assets/receitas/salada_de_abacate_com_laranja.png",
@@ -1322,7 +1322,7 @@
     ]
   },
   {
-    "slug": "abobrinhas-crocantes",
+    "slug": "Legumes-e-Verduras/abobrinhas-crocantes",
     "titulo": "Abrobinhas crocantes",
     "descricao": "Uma receita saborosa e reconfortante, as abobrinhas crocantes combinam a leveza da abobrinha com camadas de tomate, queijo e orégano, formando um prato gratinado irresistível. Finalizada com uma cobertura de pão, nozes, leite e ovo, ganha uma textura dourada e crocante por fora, enquanto permanece macia e suculenta por dentro. Perfeita como acompanhamento ou prato principal em uma refeição leve, essa receita une ingredientes simples em uma combinação rica em sabor e aroma. Assada até atingir uma cobertura firme e levemente tostada, é uma excelente opção para quem deseja incluir mais legumes no cardápio sem abrir mão de uma apresentação elegante e de um resultado cheio de personalidade.",
     "imagem": "/src/assets/receitas/abobrinhas_crocantes.png",
@@ -1351,7 +1351,7 @@
     ]
   },
   {
-    "slug": "repolho-gratinado",
+    "slug": "Legumes-e-Verduras/repolho-gratinado",
     "titulo": "Repolho gratinado",
     "descricao": "O repolho gratinado é um prato clássico que transforma um ingrediente simples em uma refeição extremamente saborosa e sofisticada. O repolho é cozido apenas até ficar macio, preservando parte de sua textura, e depois é envolvido por um molho branco cremoso preparado com manteiga, farinha, leite e creme de leite. O molho é temperado com sal, pimenta-do-reino, molho de pimenta e noz-moscada, criando um sabor intenso e aromático. Após ser colocado em uma travessa, o prato recebe uma cobertura de queijo ralado e migalhas de pão misturadas com manteiga, formando uma camada dourada e crocante durante o gratinado. O contraste entre a crosta crocante e o interior cremoso faz desta receita uma excelente opção para acompanhar carnes grelhadas, assadas ou aves. É um prato reconfortante, com aroma irresistível e sabor marcante, capaz de agradar até mesmo quem normalmente não aprecia repolho.",
     "imagem": "/src/assets/receitas/repolho_gratinado.png",
@@ -1382,7 +1382,7 @@
     ]
   },
   {
-    "slug": "aneis-de-cebola",
+    "slug": "Legumes-e-Verduras/aneis-de-cebola",
     "titulo": "Anéis de cebola",
     "descricao": "Os anéis de cebola são um dos petiscos mais conhecidos e apreciados no mundo. Nesta receita, cebolas frescas são cortadas em rodelas grossas para formar anéis perfeitos, que são mergulhados em uma massa preparada com farinha, leite, ovo, bicarbonato e fermento, resultando em uma cobertura leve e aerada. Depois de fritos em óleo bem quente, os anéis adquirem uma coloração dourada intensa e uma textura extremamente crocante por fora, enquanto a cebola permanece macia, suculenta e naturalmente adocicada por dentro. O resultado é um petisco com excelente contraste de texturas e um sabor equilibrado. Servidos ainda quentes, podem acompanhar molhos como maionese temperada, barbecue, mostarda ou molho de alho, além de serem um excelente complemento para hambúrgueres, carnes grelhadas e lanches.",
     "imagem": "/src/assets/receitas/aneis_de_cebola.png",
@@ -1409,7 +1409,7 @@
     ]
   },
   {
-    "slug": "pure-colorido",
+    "slug": "Purês e Cremes/pure-colorido",
     "titulo": "Purê colorido",
     "descricao": "O purê colorido é uma receita nutritiva, cremosa e cheia de sabor, preparada com uma combinação de inhame ou cará, batata-doce e cenoura. Cada ingrediente contribui para a textura e o sabor do prato: o inhame oferece cremosidade, a batata-doce acrescenta um toque adocicado e a cenoura proporciona uma bela coloração alaranjada, além de um sabor delicado. Depois de cozidos, os legumes são amassados e misturados com manteiga e leite até atingir uma consistência lisa e macia. O tempero com sal e pimenta-do-reino realça os sabores naturais dos vegetais sem mascará-los. O resultado é um purê leve, nutritivo e muito versátil, ideal para acompanhar carnes, aves, peixes ou até mesmo servir como prato principal em refeições mais leves. Além do sabor agradável, destaca-se pela aparência vibrante, tornando qualquer refeição mais bonita e apetitosa.",
     "imagem": "/src/assets/receitas/pure_colorido.png",
@@ -1435,7 +1435,7 @@
     ]
   },
   {
-    "slug": "salada-de-pera-e-beterraba",
+    "slug": "Saladas/salada-de-pera-e-beterraba",
     "titulo": "Salada de pêra e beterraba",
     "descricao": "Esta salada combina ingredientes frescos e sofisticados para criar um prato equilibrado, refrescante e cheio de personalidade. A doçura natural das peras maduras harmoniza perfeitamente com o sabor terroso da beterraba cozida, enquanto o agrião acrescenta um toque levemente picante e a erva-doce oferece aroma fresco e delicado. Todos os ingredientes são envolvidos por um molho preparado com iogurte natural, suco e raspas de limão, azeite de oliva, mel e vinagre de vinho, formando um creme suave que equilibra perfeitamente os sabores doces, ácidos e salgados. Servida bem gelada, a salada apresenta uma textura cremosa, porém leve, sendo ideal como entrada em almoços especiais, acompanhamento para carnes frias ou parte de um bufê. Sua combinação de cores vibrantes também faz dela uma opção elegante para ocasiões festivas.",
     "imagem": "/src/assets/receitas/salada_de_pera_e_beterraba.png",
@@ -1466,7 +1466,7 @@
     ]
   },
   {
-    "slug": "repolho-com-molho-de-raiz-forte",
+    "slug": "Legumes-e-Verduras/repolho-com-molho-de-raiz-forte",
     "titulo": "Repolho com molho de raiz-forte",
     "descricao": "O repolho com molho de raiz-forte é uma receita inspirada na culinária europeia, especialmente alemã, conhecida por seus sabores marcantes. O repolho branco é cozido rapidamente para permanecer levemente crocante, preservando sua textura e seu sabor delicado. O destaque da receita é o molho branco preparado com manteiga, farinha e leite, enriquecido com pasta de raiz-forte, noz-moscada e pimenta-do-reino. A raiz-forte acrescenta um sabor levemente picante e aromático, que contrasta perfeitamente com a suavidade do repolho. Depois de misturados, o molho envolve completamente as folhas, criando um prato cremoso e muito saboroso. Finalizado com salsa picada, torna-se um excelente acompanhamento para carnes assadas, bifes, vitela e pratos típicos da culinária alemã.",
     "imagem": "/src/assets/receitas/repolho_com_molho_de_raiz_forte.png",
