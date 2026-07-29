@@ -1,0 +1,28 @@
+---
+import Receitas from '../../data/receitas.json';
+
+const copia = [...Receitas];
+const maisReceitas = [];
+
+for(let i = 0; i < 3; i++){
+  const indice = Math.floor(Math.random() * copia.length);
+  maisReceitas.push(copia.splice(indice, 1)[0])
+}
+---
+<section class="pr-50 pl-50 pt-10 pb-10">
+  <h1 class="font-bold font-sans text-xl mb-5">Mais receitas</h1>
+  <article class="grid grid-cols-3 gap-5 justify-center">
+    {maisReceitas.map(({titulo, slug, imagem}) =>(
+    <a href=`/${slug}`>
+      <div class="w-full h-full outline-1 outline-gray-300 rounded-xl p-2 bg-white">
+        <div class="w-full h-80 mb-2">
+          <img src={imagem} alt={titulo} class="w-full h-full rounded-t-xl object-cover">
+        </div>
+        <div class="p-2">
+          <h1 class="font-bold font-serif text-base">{titulo}</h1>
+        </div>
+      </div>
+    </a>
+    ))}
+  </article>
+</section>

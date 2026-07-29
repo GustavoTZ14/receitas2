@@ -1,0 +1,32 @@
+---
+interface Props {
+  ingredientes: string;
+  preparo: string;
+};
+
+const { ingredientes, preparo } = Astro.props;
+---
+<section class="pl-50 pr-50 pb-5 pt-5">
+  <article class="grid grid-cols-5 gap-10">
+    <div class="col-span-2 p-10 outline-1 outline-gray-300 rounded-xl bg-white shadow-md">
+      <h1 class="mb-5 font-bold font-sans text-xl">Ingredientes</h1>
+      <ul class="font-serif text-sm/8">
+        {ingredientes.map((item) =>(
+        <li id="checkLi">
+          <input type="checkbox" class="mr-3 accent-[#fb4524]">
+          <b>{item}</b>
+        </li>
+        ))}
+      </ul>
+    </div>
+    <div class="col-span-3 p-10 outline-1 outline-gray-300 rounded-xl bg-white shadow-md">
+      <h1 class="mb-5 font-bold font-sans text-xl">Modo de preparo</h1>
+      <ol class="font-serif text-sm/8">
+        {preparo.map((item, i) =>(
+          <li class="mb-3 border-b border-gray-300 p-2 hover:bg-[#fffaf9] rounded-xl transition duration-300"><b class="text-[#fb4524] text-base">{i + 1}</b> {item}</li>
+        ))}
+      </ol>
+    </div>
+  </article>
+  <script src="../../scripts/slug.js"></script>
+</section>

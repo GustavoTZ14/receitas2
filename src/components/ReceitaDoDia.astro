@@ -7,7 +7,7 @@ const receitaDia = Receitas.slice(-1);
 <section class="w-full flex justify-center p-10">
   <article class="w-350 h-auto">
     {receitaDia.map(({titulo, ingredientes, slug, imagem, descricao, categoria, tempoPreparo, nivel})=>(
-    <div class="outline-1 outline-gray-200 shadow-sm rounded-xl">
+    <div class="outline-1 outline-gray-200 shadow-sm rounded-xl bg-white">
       <div class="flex p-2">
         <img src={imagem} alt={titulo} title={titulo} class="w-full h-150 rounded-xl"/>
         <div class="w-140 pl-4">

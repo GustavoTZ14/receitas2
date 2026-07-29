@@ -5,19 +5,21 @@ import { Search } from 'lucide-react';
 <header class="p-5 bg-[#fffaf9]">
   <div class="flex justify-between items-center">
     <div class="w-40">
-      <ImageLogo/>
+      <a href="/">
+        <ImageLogo/>
+      </a>
     </div>
     <nav class="flex items-center gap-10">
       <div>
         <ul class="flex gap-4 font-serif font-bold text-[#642a1c]">
-          <li>Inicio</li>
-          <li>Receitas</li>
-          <li>Categorias</li>
+          <li><a href="/">Inicio</a></li>
+          <li><a href="#">Receitas</a></li>
+          <li><a href="#">Categorias</a></li>
         </ul>
       </div>
       <div>
-        <form class="flex gap-2 p-2 outline-1 items-center outline-gray-300 rounded-xl w-100 shadow-sm bg-gray-100">
-          <input type="search" id="inSearch" placeholder="Pesquise por receitas ..." class="outline-hidden text-base w-full h-full"><Search/>
+        <form class="flex gap-2 outline-1 items-center outline-gray-300 rounded-xl w-100 h-10 p-2 shadow-sm bg-white">
+          <input type="search" id="inSearch" placeholder="Pesquise por receitas ..." class="outline-hidden text-sm w-full h-full"><Search className='text-gray-500'/>
         </form>
       </div>
     </nav>

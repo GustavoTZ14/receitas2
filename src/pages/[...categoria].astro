@@ -1,0 +1,45 @@
+---
+import Receitas from '../data/receitas.json';
+import Layout from '../layouts/Layout.astro';
+import { Clock, TrendingUp, ListSortDescending } from 'lucide-react';
+
+export function getStaticPaths(){
+return Receitas.map(({categoria}) =>{
+    return { 
+      params: {categoria},
+    }
+  })
+}
+const {categoria} = Astro.params;
+const filterCategories = Receitas.filter((item) => item.categoria === categoria);
+---
+<Layout title={categoria}>
+  <section class="pr-50 pl-50 pt-10 pb-10">
+    <h1 class="font-bold text-xl mb-5">Categoria <b class="uppercase">{categoria}</b></h1>
+    <article class="grid grid-cols-4 gap-5">
+      {filterCategories.map(({titulo, slug, imagem, tempoPreparo, nivel, categoria}) =>(
+      <a href={slug}>
+        <div class="w-full h-full outline-1 outline-gray-300 rounded-xl p-2 shadow-sm bg-white">
+          <div class="w-full h-80">
+            <img src={imagem} alt={titulo} class="w-full h-full object-cover rounded-t-xl">
+          </div>
+          <div class="grid items-center pt-2 text-center">
+            <h1 title={titulo} class="font-bold text-base">{titulo}</h1>
+            <div class="flex items-center w-full h-full p-2 justify-center font-serif gap-5">
+              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
+                <Clock className='size-4'/><b>{tempoPreparo}</b>
+              </div>
+              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
+                <TrendingUp className='size-4'/><b>{nivel}</b>
+              </div>
+              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
+                <ListSortDescending className='size-4'/><b>{categoria}</b>
+              </div>
+            </div>
+          </div>
+        </div>
+      </a>
+      ))}
+    </article>
+  </section>
+</Layout>
