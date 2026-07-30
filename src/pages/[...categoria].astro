@@ -1,7 +1,7 @@
 ---
 import Receitas from '../data/receitas.json';
 import Layout from '../layouts/Layout.astro';
-import { Clock, TrendingUp, ListSortDescending } from 'lucide-react';
+import { Clock, TrendingUp, SquareMenu } from 'lucide-react';
 
 export function getStaticPaths(){
 return Receitas.map(({categoria}) =>{
@@ -23,17 +23,17 @@ const filterCategories = Receitas.filter((item) => item.categoria === categoria)
           <div class="w-full h-80">
             <img src={imagem} alt={titulo} class="w-full h-full object-cover rounded-t-xl">
           </div>
-          <div class="grid items-center pt-2 text-center">
-            <h1 title={titulo} class="font-bold text-base">{titulo}</h1>
-            <div class="flex items-center w-full h-full p-2 justify-center font-serif gap-5">
-              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
-                <Clock className='size-4'/><b>{tempoPreparo}</b>
+          <div class="grid items-center p-2 text-center">
+            <h1 title={titulo} class="font-bold text-base mb-5">{titulo}</h1>
+            <div class="flex items-center w-full h-full justify-center font-serif gap-3">
+              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                <Clock className='size-4'/><b title={tempoPreparo}>{tempoPreparo}</b>
               </div>
-              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
-                <TrendingUp className='size-4'/><b>{nivel}</b>
+              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                <TrendingUp className='size-4'/><b title={nivel}>{nivel}</b>
               </div>
-              <div class="flex h-7 gap-2 justify-center items-center text-sm text-[#642a1c]">
-                <ListSortDescending className='size-4'/><b>{categoria}</b>
+              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                <SquareMenu className='size-4'/><b title={categoria}>{categoria}</b>
               </div>
             </div>
           </div>
