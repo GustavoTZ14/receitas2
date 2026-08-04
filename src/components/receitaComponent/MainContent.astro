@@ -2,15 +2,22 @@
 interface Props {
   ingredientes: string;
   preparo: string;
+  molho: string;
+  acompanhamento: string;
 };
 
-const { ingredientes, preparo } = Astro.props;
+const { 
+  ingredientes, 
+  preparo,
+  molho,
+  acompanhamento
+} = Astro.props;
 ---
 <section class="pl-50 pr-50 pb-5 pt-5">
   <article class="grid grid-cols-5 gap-10">
     <div class="col-span-2 p-10 outline-1 outline-gray-300 rounded-xl bg-white shadow-md">
       <h1 class="mb-5 font-bold font-sans text-xl">Ingredientes</h1>
-      <ul class="font-serif text-sm/8">
+      <ul class="font-serif text-sm/8 mb-5">
         {ingredientes.map((item) =>(
         <li id="checkLi">
           <input type="checkbox" class="mr-3 accent-[#fb4524]">
@@ -18,6 +25,36 @@ const { ingredientes, preparo } = Astro.props;
         </li>
         ))}
       </ul>
+      <div>
+        {molho && (
+        <div>
+          <h1 class="mb-5 font-bold font-sans text-xl">Molho</h1>
+          {molho.map((item) =>(
+          <ul class="font-serif text-sm/8">
+            <li id="checkLi">
+              <input type="checkbox" class="mr-3 accent-[#fb4524]">
+              <b class="text-[#642a1c]">{item}</b>
+            </li>
+          </ul>
+          ))}
+        </div>
+        )}
+      </div>
+      <div>
+        {acompanhamento && (
+        <div>
+          <h1 class="mb-5 font-bold font-sans text-xl">Acompanhamento</h1>
+          {acompanhamento.map((item) =>(
+          <ul class="font-serif text-sm/8">
+            <li id="checkLi">
+              <input type="checkbox" class="mr-3 accent-[#fb4524]">
+              <b class="text-[#642a1c]">{item}</b>
+            </li>
+          </ul>
+          ))}
+        </div>
+        )}
+      </div>
     </div>
     <div class="col-span-3 p-10 outline-1 outline-gray-300 rounded-xl bg-white shadow-md">
       <h1 class="mb-5 font-bold font-sans text-xl">Modo de preparo</h1>

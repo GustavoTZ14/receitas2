@@ -1,8 +1,8 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import HeroImageReceita from '../components/receitas/HeroImageReceitas.astro';
-import MainContent from '../components/receitas/MainContent.astro';
-import FooterContent from '../components/receitas/FooterContent.astro';
+import HeroImageReceita from '../components/receitaComponent/HeroImageReceitas.astro';
+import MainContent from '../components/receitaComponent/MainContent.astro';
+import FooterContent from '../components/receitaComponent/FooterContent.astro';
 import Receitas from '../data/receitas.json';
 
 export function getStaticPaths(){
@@ -16,7 +16,9 @@ export function getStaticPaths(){
     categoria, 
     rendimento,
     ingredientes,
-    preparo
+    preparo,
+    molho,
+    acompanhamento
   }) =>{
     return{
       params: {slug},
@@ -29,7 +31,9 @@ export function getStaticPaths(){
         categoria,
         rendimento,
         ingredientes,
-        preparo
+          preparo,
+          molho,
+          acompanhamento
       }
     }
   })
@@ -44,7 +48,9 @@ const {
   categoria,
   rendimento,
   ingredientes,
-  preparo
+  preparo,
+  molho,
+  acompanhamento
 } = Astro.props;
 ---
 <Layout title={titulo}>
@@ -57,6 +63,6 @@ const {
     categoria={categoria}
     rendimento={rendimento}
   />
-  <MainContent ingredientes={ingredientes} preparo={preparo}/>
+  <MainContent ingredientes={ingredientes} preparo={preparo} molho={molho} acompanhamento={acompanhamento}/>
   <FooterContent/>
 </Layout>
