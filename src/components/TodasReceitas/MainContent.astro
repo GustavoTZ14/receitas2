@@ -1,0 +1,132 @@
+
+---
+import Receitas from '../../data/receitas.json';
+import { Clock, TrendingUp, SquareMenu, RotateCcw } from 'lucide-react';
+
+const categorias = [...new Set(
+Receitas.map(item => item.categoria)
+)]
+const paginaPrimeiro = Receitas.slice(0, 12);
+---
+<section class="pr-20 pl-20 pt-10 pb-10">
+  <article class="grid grid-cols-5 gap-3">
+    <div class="col-span-1 outline-1 outline-gray-300 rounded-xl p-4 bg-white shadow-sm">
+      <div class="border-b border-gray-300 mb-5 pb-5">
+        <h1 class="font-bold font-serif text-xl">Filtros</h1>
+      </div>
+      <div class="border-b border-gray-300 mb-5 pb-5">
+        <h1 class="font-bold font-serif text-base mb-5">Dificuldade</h1>
+        <ul>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Fácil
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Médio
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Difícil
+            </label>
+          </li>
+        </ul>
+      </div>
+      <div class="border-b border-gray-300 mb-5 pb-5">
+        <h1 class="font-bold font-serif text-base mb-5">Tempo de preparo</h1>
+        <ul>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Até 15 min
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Até 30 min
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Até 1 hora
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Mais de 1 hora
+            </label>
+          </li>
+          <li>
+            <label for="">
+              <input type="checkbox" id="">
+              Até 15 min
+            </label>
+          </li>
+        </ul>
+      </div>
+      <div class="border-b boder-gray-300 mb-5 pb-5">
+        <h1 class="font-bold font-serif text-base mb-5">Categorias</h1>
+        <ul>
+          {categorias.map(item =>(
+          <li>
+            <label>
+              <input type="checkbox" value={item}>
+              {item}
+            </label>
+          </li>
+          ))}
+        </ul>
+      </div>
+      <div class="flex justify-center p-2">
+        <div class="flex justify-center w-50 outline-1 outline-gray-300 p-1 rounded-xl">
+          <b class="flex gap-2">Limpar filtros <RotateCcw/></b>
+        </div>
+      </div>
+    </div>
+    <div class="grid grid-cols-4 col-span-4 gap-5">
+      {paginaPrimeiro.map(({ titulo, slug, imagem, tempoPreparo, nivel, categoria }) => (
+        <a href={slug}>
+          <div class="w-full h-full outline-1 outline-gray-300 rounded-xl p-2 shadow-sm bg-white">
+            <div class="w-full h-80">
+              <img src={imagem} alt={titulo} class="w-full h-full object-cover rounded-t-xl" />
+            </div>
+            <div class="grid items-center p-2 text-center">
+              <h1 title={titulo} class="font-bold text-base mb-5 truncate">{titulo}</h1>
+              <div class="flex items-center w-full h-full justify-center font-serif gap-3">
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <Clock className='size-4' /><b title={tempoPreparo}>{tempoPreparo}</b>
+                </div>
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <TrendingUp className='size-4' /><b title={nivel}>{nivel}</b>
+                </div>
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <SquareMenu className='size-4' /><b title={categoria}>{categoria}</b>
+                </div>
+              </div>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </article>
+</section>
+<style>
+ul{
+font-family: sans-serif;
+line-height: 2rem;
+}
+
+label{
+display: flex;
+gap: 10px;
+font-size: 14px;
+}
+</style>

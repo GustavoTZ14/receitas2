@@ -14,31 +14,31 @@ const {categoria} = Astro.params;
 const filterCategories = Receitas.filter((item) => item.categoria === categoria);
 ---
 <Layout title={categoria}>
-  <section class="pr-50 pl-50 pt-10 pb-10">
+  <section id="secaoPaginador" class="pr-50 pl-50 pt-10 pb-10">
     <h1 class="font-bold text-xl mb-5">Categoria <b class="uppercase">{categoria}</b></h1>
     <article class="grid grid-cols-4 gap-5">
-      {filterCategories.map(({titulo, slug, imagem, tempoPreparo, nivel, categoria}) =>(
-      <a href={slug}>
-        <div class="w-full h-full outline-1 outline-gray-300 rounded-xl p-2 shadow-sm bg-white">
-          <div class="w-full h-80">
-            <img src={imagem} alt={titulo} class="w-full h-full object-cover rounded-t-xl">
-          </div>
-          <div class="grid items-center p-2 text-center">
-            <h1 title={titulo} class="font-bold text-base mb-5">{titulo}</h1>
-            <div class="flex items-center w-full h-full justify-center font-serif gap-3">
-              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
-                <Clock className='size-4'/><b title={tempoPreparo}>{tempoPreparo}</b>
-              </div>
-              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
-                <TrendingUp className='size-4'/><b title={nivel}>{nivel}</b>
-              </div>
-              <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
-                <SquareMenu className='size-4'/><b title={categoria}>{categoria}</b>
+      {filterCategories.map(({ titulo, slug, imagem, tempoPreparo, nivel, categoria }) => (
+        <a href={slug}>
+          <div class="w-full h-full outline-1 outline-gray-300 rounded-xl p-2 shadow-sm bg-white">
+            <div class="w-full h-80">
+              <img src={imagem} alt={titulo} class="w-full h-full object-cover rounded-t-xl" />
+            </div>
+            <div class="grid items-center p-2 text-center">
+              <h1 title={titulo} class="font-bold text-base mb-5 truncate">{titulo}</h1>
+              <div class="flex items-center w-full h-full justify-center font-serif gap-3">
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <Clock className='size-4' /><b title={tempoPreparo}>{tempoPreparo}</b>
+                </div>
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <TrendingUp className='size-4' /><b title={nivel}>{nivel}</b>
+                </div>
+                <div class="flex h-7 gap-1 justify-center items-center text-xs text-[#642a1c]">
+                  <SquareMenu className='size-4' /><b title={categoria}>{categoria}</b>
+                </div>
               </div>
             </div>
           </div>
-        </div>
-      </a>
+        </a>
       ))}
     </article>
   </section>

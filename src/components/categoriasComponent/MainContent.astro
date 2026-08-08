@@ -1,0 +1,25 @@
+---
+import Receitas from '../../data/receitas.json';
+
+const categorias = [...new Set(
+Receitas.map(item => item.categoria)
+)]
+
+const slicecat = categorias.slice(0, 10);
+---
+<section class="pr-100 pl-100 pt-10 pb-10">
+  <article class="grid gap-3">
+    <h1 class="text-center font-bold font-serif text-xl mb-5">Categorias</h1>
+    <div class="grid grid-cols-5 gap-3">
+      {slicecat.map(item => (
+        <a href={item}>
+          <div class="flex justify-center items-center w-50 h-50 outline-1 outline-gray-300 rounded-xl p-2 shadow-sm bg-white">
+            <div class="p-2">
+              <h1 title={item} class="font-bold text-base mb-5 truncate">{item}</h1>
+            </div>
+          </div>
+        </a>
+      ))}
+    </div>
+  </article>
+</section>
